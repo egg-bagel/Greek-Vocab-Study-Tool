@@ -1,3 +1,230 @@
 {
-  
+  "verbs": [
+    {
+      "dictionary_entry": "λύω",
+      "meaning": "to loosen, destroy, set free",
+      "tags": ["regular", "thematic"],
+      "principal_parts": ["λύω", "λύσω", "ἔλυσα", "λέλυκα", "λέλυμαι", "ἐλύθην"],
+      "forms": [
+
+        { "form": "λύω",    "person": "1st", "number": "singular", "tense": "present", "mood": "indicative", "voice": "active", "principal_part": 1 },
+        { "form": "λύεις",  "person": "2nd", "number": "singular", "tense": "present", "mood": "indicative", "voice": "active", "principal_part": 1 },
+        { "form": "λύει",   "person": "3rd", "number": "singular", "tense": "present", "mood": "indicative", "voice": "active", "principal_part": 1 },
+        { "form": "λύομεν", "person": "1st", "number": "plural",   "tense": "present", "mood": "indicative", "voice": "active", "principal_part": 1 },
+        { "form": "λύετε",  "person": "2nd", "number": "plural",   "tense": "present", "mood": "indicative", "voice": "active", "principal_part": 1 },
+        { "form": "λύουσι", "person": "3rd", "number": "plural",   "tense": "present", "mood": "indicative", "voice": "active", "principal_part": 1 },
+
+        { "form": "λύομαι",   "person": "1st", "number": "singular", "tense": "present", "mood": "indicative", "voice": "middle/passive", "principal_part": 1 },
+        { "form": "λύῃ",      "person": "2nd", "number": "singular", "tense": "present", "mood": "indicative", "voice": "middle/passive", "principal_part": 1 },
+        { "form": "λύεται",   "person": "3rd", "number": "singular", "tense": "present", "mood": "indicative", "voice": "middle/passive", "principal_part": 1 },
+        { "form": "λυόμεθα", "person": "1st", "number": "plural",   "tense": "present", "mood": "indicative", "voice": "middle/passive", "principal_part": 1 },
+        { "form": "λύεσθε",  "person": "2nd", "number": "plural",   "tense": "present", "mood": "indicative", "voice": "middle/passive", "principal_part": 1 },
+        { "form": "λύονται", "person": "3rd", "number": "plural",   "tense": "present", "mood": "indicative", "voice": "middle/passive", "principal_part": 1 },
+
+        { "form": "λύω",    "person": "1st", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "active", "principal_part": 1 },
+        { "form": "λύῃς",   "person": "2nd", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "active", "principal_part": 1 },
+        { "form": "λύῃ",    "person": "3rd", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "active", "principal_part": 1 },
+        { "form": "λύωμεν", "person": "1st", "number": "plural",   "tense": "present", "mood": "subjunctive", "voice": "active", "principal_part": 1 },
+        { "form": "λύητε",  "person": "2nd", "number": "plural",   "tense": "present", "mood": "subjunctive", "voice": "active", "principal_part": 1 },
+        { "form": "λύωσι",  "person": "3rd", "number": "plural",   "tense": "present", "mood": "subjunctive", "voice": "active", "principal_part": 1 },
+
+        { "form": "λύωμαι",   "person": "1st", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "middle/passive", "principal_part": 1 },
+        { "form": "λύῃ",      "person": "2nd", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "middle/passive", "principal_part": 1 },
+        { "form": "λύηται",   "person": "3rd", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "middle/passive", "principal_part": 1 },
+        { "form": "λυώμεθα", "person": "1st", "number": "plural",   "tense": "present", "mood": "subjunctive", "voice": "middle/passive", "principal_part": 1 },
+        { "form": "λύησθε",  "person": "2nd", "number": "plural",   "tense": "present", "mood": "subjunctive", "voice": "middle/passive", "principal_part": 1 },
+        { "form": "λύωνται", "person": "3rd", "number": "plural",   "tense": "present", "mood": "subjunctive", "voice": "middle/passive", "principal_part": 1 },
+
+        { "form": "λύοιμι",  "person": "1st", "number": "singular", "tense": "present", "mood": "optative", "voice": "active", "principal_part": 1 },
+        { "form": "λύοις",   "person": "2nd", "number": "singular", "tense": "present", "mood": "optative", "voice": "active", "principal_part": 1 },
+        { "form": "λύοι",    "person": "3rd", "number": "singular", "tense": "present", "mood": "optative", "voice": "active", "principal_part": 1 },
+        { "form": "λύοιμεν", "person": "1st", "number": "plural",   "tense": "present", "mood": "optative", "voice": "active", "principal_part": 1 },
+        { "form": "λύοιτε",  "person": "2nd", "number": "plural",   "tense": "present", "mood": "optative", "voice": "active", "principal_part": 1 },
+        { "form": "λύοιεν",  "person": "3rd", "number": "plural",   "tense": "present", "mood": "optative", "voice": "active", "principal_part": 1 },
+
+        { "form": "λυοίμην",  "person": "1st", "number": "singular", "tense": "present", "mood": "optative", "voice": "middle/passive", "principal_part": 1 },
+        { "form": "λύοιο",    "person": "2nd", "number": "singular", "tense": "present", "mood": "optative", "voice": "middle/passive", "principal_part": 1 },
+        { "form": "λύοιτο",   "person": "3rd", "number": "singular", "tense": "present", "mood": "optative", "voice": "middle/passive", "principal_part": 1 },
+        { "form": "λυοίμεθα","person": "1st", "number": "plural",   "tense": "present", "mood": "optative", "voice": "middle/passive", "principal_part": 1 },
+        { "form": "λύοισθε", "person": "2nd", "number": "plural",   "tense": "present", "mood": "optative", "voice": "middle/passive", "principal_part": 1 },
+        { "form": "λύοιντο", "person": "3rd", "number": "plural",   "tense": "present", "mood": "optative", "voice": "middle/passive", "principal_part": 1 },
+
+        { "form": "λῦε",     "person": "2nd", "number": "singular", "tense": "present", "mood": "imperative", "voice": "active", "principal_part": 1 },
+        { "form": "λυέτω",   "person": "3rd", "number": "singular", "tense": "present", "mood": "imperative", "voice": "active", "principal_part": 1 },
+        { "form": "λύετε",   "person": "2nd", "number": "plural",   "tense": "present", "mood": "imperative", "voice": "active", "principal_part": 1 },
+        { "form": "λυόντων", "person": "3rd", "number": "plural",   "tense": "present", "mood": "imperative", "voice": "active", "principal_part": 1 },
+
+        { "form": "λύου",     "person": "2nd", "number": "singular", "tense": "present", "mood": "imperative", "voice": "middle/passive", "principal_part": 1 },
+        { "form": "λυέσθω",  "person": "3rd", "number": "singular", "tense": "present", "mood": "imperative", "voice": "middle/passive", "principal_part": 1 },
+        { "form": "λύεσθε",  "person": "2nd", "number": "plural",   "tense": "present", "mood": "imperative", "voice": "middle/passive", "principal_part": 1 },
+        { "form": "λυέσθων", "person": "3rd", "number": "plural",   "tense": "present", "mood": "imperative", "voice": "middle/passive", "principal_part": 1 },
+
+        { "form": "λύειν",   "person": null, "number": null, "tense": "present", "mood": "infinitive", "voice": "active",        "principal_part": 1 },
+        { "form": "λύεσθαι", "person": null, "number": null, "tense": "present", "mood": "infinitive", "voice": "middle/passive", "principal_part": 1 },
+
+        { "form": "ἔλυον",   "person": "1st", "number": "singular", "tense": "imperfect", "mood": "indicative", "voice": "active", "principal_part": 1 },
+        { "form": "ἔλυες",   "person": "2nd", "number": "singular", "tense": "imperfect", "mood": "indicative", "voice": "active", "principal_part": 1 },
+        { "form": "ἔλυε",    "person": "3rd", "number": "singular", "tense": "imperfect", "mood": "indicative", "voice": "active", "principal_part": 1 },
+        { "form": "ἐλύομεν", "person": "1st", "number": "plural",   "tense": "imperfect", "mood": "indicative", "voice": "active", "principal_part": 1 },
+        { "form": "ἐλύετε",  "person": "2nd", "number": "plural",   "tense": "imperfect", "mood": "indicative", "voice": "active", "principal_part": 1 },
+        { "form": "ἔλυον",   "person": "3rd", "number": "plural",   "tense": "imperfect", "mood": "indicative", "voice": "active", "principal_part": 1 },
+
+        { "form": "ἐλυόμην",  "person": "1st", "number": "singular", "tense": "imperfect", "mood": "indicative", "voice": "middle/passive", "principal_part": 1 },
+        { "form": "ἐλύου",    "person": "2nd", "number": "singular", "tense": "imperfect", "mood": "indicative", "voice": "middle/passive", "principal_part": 1 },
+        { "form": "ἐλύετο",   "person": "3rd", "number": "singular", "tense": "imperfect", "mood": "indicative", "voice": "middle/passive", "principal_part": 1 },
+        { "form": "ἐλυόμεθα","person": "1st", "number": "plural",   "tense": "imperfect", "mood": "indicative", "voice": "middle/passive", "principal_part": 1 },
+        { "form": "ἐλύεσθε", "person": "2nd", "number": "plural",   "tense": "imperfect", "mood": "indicative", "voice": "middle/passive", "principal_part": 1 },
+        { "form": "ἐλύοντο", "person": "3rd", "number": "plural",   "tense": "imperfect", "mood": "indicative", "voice": "middle/passive", "principal_part": 1 },
+
+        { "form": "λύσω",    "person": "1st", "number": "singular", "tense": "future", "mood": "indicative", "voice": "active", "principal_part": 2 },
+        { "form": "λύσεις",  "person": "2nd", "number": "singular", "tense": "future", "mood": "indicative", "voice": "active", "principal_part": 2 },
+        { "form": "λύσει",   "person": "3rd", "number": "singular", "tense": "future", "mood": "indicative", "voice": "active", "principal_part": 2 },
+        { "form": "λύσομεν", "person": "1st", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "active", "principal_part": 2 },
+        { "form": "λύσετε",  "person": "2nd", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "active", "principal_part": 2 },
+        { "form": "λύσουσι", "person": "3rd", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "active", "principal_part": 2 },
+
+        { "form": "λύσομαι",   "person": "1st", "number": "singular", "tense": "future", "mood": "indicative", "voice": "middle", "principal_part": 2 },
+        { "form": "λύσῃ",      "person": "2nd", "number": "singular", "tense": "future", "mood": "indicative", "voice": "middle", "principal_part": 2 },
+        { "form": "λύσεται",   "person": "3rd", "number": "singular", "tense": "future", "mood": "indicative", "voice": "middle", "principal_part": 2 },
+        { "form": "λυσόμεθα", "person": "1st", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "middle", "principal_part": 2 },
+        { "form": "λύσεσθε",  "person": "2nd", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "middle", "principal_part": 2 },
+        { "form": "λύσονται", "person": "3rd", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "middle", "principal_part": 2 },
+
+        { "form": "λύσοιμι",  "person": "1st", "number": "singular", "tense": "future", "mood": "optative", "voice": "active", "principal_part": 2 },
+        { "form": "λύσοις",   "person": "2nd", "number": "singular", "tense": "future", "mood": "optative", "voice": "active", "principal_part": 2 },
+        { "form": "λύσοι",    "person": "3rd", "number": "singular", "tense": "future", "mood": "optative", "voice": "active", "principal_part": 2 },
+        { "form": "λύσοιμεν", "person": "1st", "number": "plural",   "tense": "future", "mood": "optative", "voice": "active", "principal_part": 2 },
+        { "form": "λύσοιτε",  "person": "2nd", "number": "plural",   "tense": "future", "mood": "optative", "voice": "active", "principal_part": 2 },
+        { "form": "λύσοιεν",  "person": "3rd", "number": "plural",   "tense": "future", "mood": "optative", "voice": "active", "principal_part": 2 },
+
+        { "form": "λύσειν",   "person": null, "number": null, "tense": "future", "mood": "infinitive", "voice": "active",  "principal_part": 2 },
+        { "form": "λύσεσθαι", "person": null, "number": null, "tense": "future", "mood": "infinitive", "voice": "middle",  "principal_part": 2 },
+
+        { "form": "ἔλυσα",    "person": "1st", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "active", "principal_part": 3 },
+        { "form": "ἔλυσας",   "person": "2nd", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "active", "principal_part": 3 },
+        { "form": "ἔλυσε",    "person": "3rd", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "active", "principal_part": 3 },
+        { "form": "ἐλύσαμεν", "person": "1st", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "active", "principal_part": 3 },
+        { "form": "ἐλύσατε",  "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "active", "principal_part": 3 },
+        { "form": "ἔλυσαν",   "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "active", "principal_part": 3 },
+
+        { "form": "ἐλυσάμην",  "person": "1st", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "middle", "principal_part": 3 },
+        { "form": "ἐλύσω",     "person": "2nd", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "middle", "principal_part": 3 },
+        { "form": "ἐλύσατο",   "person": "3rd", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "middle", "principal_part": 3 },
+        { "form": "ἐλυσάμεθα","person": "1st", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "middle", "principal_part": 3 },
+        { "form": "ἐλύσασθε", "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "middle", "principal_part": 3 },
+        { "form": "ἐλύσαντο", "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "middle", "principal_part": 3 },
+
+        { "form": "λύσω",    "person": "1st", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "active", "principal_part": 3 },
+        { "form": "λύσῃς",   "person": "2nd", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "active", "principal_part": 3 },
+        { "form": "λύσῃ",    "person": "3rd", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "active", "principal_part": 3 },
+        { "form": "λύσωμεν", "person": "1st", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "active", "principal_part": 3 },
+        { "form": "λύσητε",  "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "active", "principal_part": 3 },
+        { "form": "λύσωσι",  "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "active", "principal_part": 3 },
+
+        { "form": "λύσωμαι",  "person": "1st", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "middle", "principal_part": 3 },
+        { "form": "λύσῃ",     "person": "2nd", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "middle", "principal_part": 3 },
+        { "form": "λύσηται",  "person": "3rd", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "middle", "principal_part": 3 },
+        { "form": "λυσώμεθα","person": "1st", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "middle", "principal_part": 3 },
+        { "form": "λύσησθε", "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "middle", "principal_part": 3 },
+        { "form": "λύσωνται","person": "3rd", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "middle", "principal_part": 3 },
+
+        { "form": "λύσαιμι",  "person": "1st", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "active", "principal_part": 3 },
+        { "form": "λύσαις",   "person": "2nd", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "active", "principal_part": 3 },
+        { "form": "λύσαι",    "person": "3rd", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "active", "principal_part": 3 },
+        { "form": "λύσαιμεν", "person": "1st", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "active", "principal_part": 3 },
+        { "form": "λύσαιτε",  "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "active", "principal_part": 3 },
+        { "form": "λύσαιεν",  "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "active", "principal_part": 3 },
+
+        { "form": "λυσαίμην",  "person": "1st", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "middle", "principal_part": 3 },
+        { "form": "λύσαιο",    "person": "2nd", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "middle", "principal_part": 3 },
+        { "form": "λύσαιτο",   "person": "3rd", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "middle", "principal_part": 3 },
+        { "form": "λυσαίμεθα","person": "1st", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "middle", "principal_part": 3 },
+        { "form": "λύσαισθε", "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "middle", "principal_part": 3 },
+        { "form": "λύσαιντο", "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "middle", "principal_part": 3 },
+
+        { "form": "λῦσον",    "person": "2nd", "number": "singular", "tense": "aorist", "mood": "imperative", "voice": "active", "principal_part": 3 },
+        { "form": "λυσάτω",   "person": "3rd", "number": "singular", "tense": "aorist", "mood": "imperative", "voice": "active", "principal_part": 3 },
+        { "form": "λύσατε",   "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "imperative", "voice": "active", "principal_part": 3 },
+        { "form": "λυσάντων", "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "imperative", "voice": "active", "principal_part": 3 },
+
+        { "form": "λῦσαι",    "person": "2nd", "number": "singular", "tense": "aorist", "mood": "imperative", "voice": "middle", "principal_part": 3 },
+        { "form": "λυσάσθω",  "person": "3rd", "number": "singular", "tense": "aorist", "mood": "imperative", "voice": "middle", "principal_part": 3 },
+        { "form": "λύσασθε",  "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "imperative", "voice": "middle", "principal_part": 3 },
+        { "form": "λυσάσθων", "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "imperative", "voice": "middle", "principal_part": 3 },
+
+        { "form": "λῦσαι",    "person": null, "number": null, "tense": "aorist", "mood": "infinitive", "voice": "active",  "principal_part": 3 },
+        { "form": "λύσασθαι", "person": null, "number": null, "tense": "aorist", "mood": "infinitive", "voice": "middle",  "principal_part": 3 },
+
+        { "form": "λέλυκα",    "person": "1st", "number": "singular", "tense": "perfect", "mood": "indicative", "voice": "active", "principal_part": 4 },
+        { "form": "λέλυκας",   "person": "2nd", "number": "singular", "tense": "perfect", "mood": "indicative", "voice": "active", "principal_part": 4 },
+        { "form": "λέλυκε",    "person": "3rd", "number": "singular", "tense": "perfect", "mood": "indicative", "voice": "active", "principal_part": 4 },
+        { "form": "λελύκαμεν", "person": "1st", "number": "plural",   "tense": "perfect", "mood": "indicative", "voice": "active", "principal_part": 4 },
+        { "form": "λελύκατε",  "person": "2nd", "number": "plural",   "tense": "perfect", "mood": "indicative", "voice": "active", "principal_part": 4 },
+        { "form": "λελύκασι",  "person": "3rd", "number": "plural",   "tense": "perfect", "mood": "indicative", "voice": "active", "principal_part": 4 },
+
+        { "form": "λελυκέναι", "person": null, "number": null, "tense": "perfect", "mood": "infinitive", "voice": "active", "principal_part": 4 },
+
+        { "form": "ἐλελύκη",    "person": "1st", "number": "singular", "tense": "pluperfect", "mood": "indicative", "voice": "active", "principal_part": 4 },
+        { "form": "ἐλελύκης",   "person": "2nd", "number": "singular", "tense": "pluperfect", "mood": "indicative", "voice": "active", "principal_part": 4 },
+        { "form": "ἐλελύκει",   "person": "3rd", "number": "singular", "tense": "pluperfect", "mood": "indicative", "voice": "active", "principal_part": 4 },
+        { "form": "ἐλελύκεμεν", "person": "1st", "number": "plural",   "tense": "pluperfect", "mood": "indicative", "voice": "active", "principal_part": 4 },
+        { "form": "ἐλελύκετε",  "person": "2nd", "number": "plural",   "tense": "pluperfect", "mood": "indicative", "voice": "active", "principal_part": 4 },
+        { "form": "ἐλελύκεσαν", "person": "3rd", "number": "plural",   "tense": "pluperfect", "mood": "indicative", "voice": "active", "principal_part": 4 },
+
+        { "form": "λέλυμαι",   "person": "1st", "number": "singular", "tense": "perfect", "mood": "indicative", "voice": "middle/passive", "principal_part": 5 },
+        { "form": "λέλυσαι",   "person": "2nd", "number": "singular", "tense": "perfect", "mood": "indicative", "voice": "middle/passive", "principal_part": 5 },
+        { "form": "λέλυται",   "person": "3rd", "number": "singular", "tense": "perfect", "mood": "indicative", "voice": "middle/passive", "principal_part": 5 },
+        { "form": "λελύμεθα", "person": "1st", "number": "plural",   "tense": "perfect", "mood": "indicative", "voice": "middle/passive", "principal_part": 5 },
+        { "form": "λέλυσθε",  "person": "2nd", "number": "plural",   "tense": "perfect", "mood": "indicative", "voice": "middle/passive", "principal_part": 5 },
+        { "form": "λέλυνται", "person": "3rd", "number": "plural",   "tense": "perfect", "mood": "indicative", "voice": "middle/passive", "principal_part": 5 },
+
+        { "form": "λελύσθαι", "person": null, "number": null, "tense": "perfect", "mood": "infinitive", "voice": "middle/passive", "principal_part": 5 },
+
+        { "form": "ἐλελύμην",  "person": "1st", "number": "singular", "tense": "pluperfect", "mood": "indicative", "voice": "middle/passive", "principal_part": 5 },
+        { "form": "ἐλέλυσο",   "person": "2nd", "number": "singular", "tense": "pluperfect", "mood": "indicative", "voice": "middle/passive", "principal_part": 5 },
+        { "form": "ἐλέλυτο",   "person": "3rd", "number": "singular", "tense": "pluperfect", "mood": "indicative", "voice": "middle/passive", "principal_part": 5 },
+        { "form": "ἐλελύμεθα","person": "1st", "number": "plural",   "tense": "pluperfect", "mood": "indicative", "voice": "middle/passive", "principal_part": 5 },
+        { "form": "ἐλέλυσθε", "person": "2nd", "number": "plural",   "tense": "pluperfect", "mood": "indicative", "voice": "middle/passive", "principal_part": 5 },
+        { "form": "ἐλέλυντο", "person": "3rd", "number": "plural",   "tense": "pluperfect", "mood": "indicative", "voice": "middle/passive", "principal_part": 5 },
+
+        { "form": "ἐλύθην",    "person": "1st", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "passive", "principal_part": 6 },
+        { "form": "ἐλύθης",    "person": "2nd", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "passive", "principal_part": 6 },
+        { "form": "ἐλύθη",     "person": "3rd", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "passive", "principal_part": 6 },
+        { "form": "ἐλύθημεν",  "person": "1st", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "passive", "principal_part": 6 },
+        { "form": "ἐλύθητε",   "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "passive", "principal_part": 6 },
+        { "form": "ἐλύθησαν",  "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "passive", "principal_part": 6 },
+
+        { "form": "λυθῶ",    "person": "1st", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "passive", "principal_part": 6 },
+        { "form": "λυθῇς",   "person": "2nd", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "passive", "principal_part": 6 },
+        { "form": "λυθῇ",    "person": "3rd", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "passive", "principal_part": 6 },
+        { "form": "λυθῶμεν", "person": "1st", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "passive", "principal_part": 6 },
+        { "form": "λυθῆτε",  "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "passive", "principal_part": 6 },
+        { "form": "λυθῶσι",  "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "passive", "principal_part": 6 },
+
+        { "form": "λυθείην",   "person": "1st", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "passive", "principal_part": 6 },
+        { "form": "λυθείης",   "person": "2nd", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "passive", "principal_part": 6 },
+        { "form": "λυθείη",    "person": "3rd", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "passive", "principal_part": 6 },
+        { "form": "λυθεῖμεν",  "person": "1st", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "passive", "principal_part": 6 },
+        { "form": "λυθεῖτε",   "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "passive", "principal_part": 6 },
+        { "form": "λυθεῖεν",   "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "passive", "principal_part": 6 },
+
+        { "form": "λύθητι",   "person": "2nd", "number": "singular", "tense": "aorist", "mood": "imperative", "voice": "passive", "principal_part": 6 },
+        { "form": "λυθήτω",   "person": "3rd", "number": "singular", "tense": "aorist", "mood": "imperative", "voice": "passive", "principal_part": 6 },
+        { "form": "λύθητε",   "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "imperative", "voice": "passive", "principal_part": 6 },
+        { "form": "λυθέντων", "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "imperative", "voice": "passive", "principal_part": 6 },
+
+        { "form": "λυθῆναι", "person": null, "number": null, "tense": "aorist", "mood": "infinitive", "voice": "passive", "principal_part": 6 },
+
+        { "form": "λυθήσομαι",  "person": "1st", "number": "singular", "tense": "future", "mood": "indicative", "voice": "passive", "principal_part": 6 },
+        { "form": "λυθήσῃ",     "person": "2nd", "number": "singular", "tense": "future", "mood": "indicative", "voice": "passive", "principal_part": 6 },
+        { "form": "λυθήσεται",  "person": "3rd", "number": "singular", "tense": "future", "mood": "indicative", "voice": "passive", "principal_part": 6 },
+        { "form": "λυθησόμεθα","person": "1st", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "passive", "principal_part": 6 },
+        { "form": "λυθήσεσθε", "person": "2nd", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "passive", "principal_part": 6 },
+        { "form": "λυθήσονται","person": "3rd", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "passive", "principal_part": 6 },
+
+        { "form": "λυθήσεσθαι", "person": null, "number": null, "tense": "future", "mood": "infinitive", "voice": "passive", "principal_part": 6 }
+
+      ]
+    }
+  ]
 }
