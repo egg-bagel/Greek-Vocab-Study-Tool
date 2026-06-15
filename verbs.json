@@ -212,6 +212,66 @@
 
         { "form": "λυθήσεσθαι", "parses": [{ "person": null, "number": null, "tense": "future", "mood": "infinitive", "voice": "passive" }], "principal_part": 6 }
       ]
+    },
+    {
+      "dictionary_entry": "εἰμί",
+      "meaning": "to be",
+      "tags": ["irregular", "defective", "mi-verb"],
+      "notes": "Present indicative forms are enclitic except εἰμί (1st sg). No aorist, perfect, or passive forms. Future is suppletive from ἔσομαι.",
+      "principal_parts": ["εἰμί", "ἔσομαι", null, null, null, null],
+      "forms": [
+
+        { "form": "εἰμί",   "parses": [{ "person": "1st", "number": "singular", "tense": "present", "mood": "indicative", "voice": "active" }], "principal_part": 1 },
+        { "form": "εἶ",     "parses": [{ "person": "2nd", "number": "singular", "tense": "present", "mood": "indicative", "voice": "active" }], "principal_part": 1 },
+        { "form": "ἐστί",   "parses": [{ "person": "3rd", "number": "singular", "tense": "present", "mood": "indicative", "voice": "active" }], "principal_part": 1 },
+        { "form": "ἐσμέν",  "parses": [{ "person": "1st", "number": "plural",   "tense": "present", "mood": "indicative", "voice": "active" }], "principal_part": 1 },
+        { "form": "ἐστέ",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "present", "mood": "indicative", "voice": "active" }], "principal_part": 1 },
+        { "form": "εἰσί",   "parses": [{ "person": "3rd", "number": "plural",   "tense": "present", "mood": "indicative", "voice": "active" }], "principal_part": 1 },
+
+        { "form": "ὦ",      "parses": [{ "person": "1st", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "active" }], "principal_part": 1 },
+        { "form": "ᾖς",     "parses": [{ "person": "2nd", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "active" }], "principal_part": 1 },
+        { "form": "ᾖ",      "parses": [{ "person": "3rd", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "active" }], "principal_part": 1 },
+        { "form": "ὦμεν",   "parses": [{ "person": "1st", "number": "plural",   "tense": "present", "mood": "subjunctive", "voice": "active" }], "principal_part": 1 },
+        { "form": "ἦτε",    "parses": [{ "person": "2nd", "number": "plural",   "tense": "present", "mood": "subjunctive", "voice": "active" }], "principal_part": 1 },
+        { "form": "ὦσι",    "parses": [{ "person": "3rd", "number": "plural",   "tense": "present", "mood": "subjunctive", "voice": "active" }], "principal_part": 1 },
+
+        { "form": "εἴην",   "parses": [{ "person": "1st", "number": "singular", "tense": "present", "mood": "optative", "voice": "active" }], "principal_part": 1 },
+        { "form": "εἴης",   "parses": [{ "person": "2nd", "number": "singular", "tense": "present", "mood": "optative", "voice": "active" }], "principal_part": 1 },
+        { "form": "εἴη",    "parses": [{ "person": "3rd", "number": "singular", "tense": "present", "mood": "optative", "voice": "active" }], "principal_part": 1 },
+        { "form": "εἶμεν",  "parses": [{ "person": "1st", "number": "plural",   "tense": "present", "mood": "optative", "voice": "active" }], "principal_part": 1 },
+        { "form": "εἶτε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "present", "mood": "optative", "voice": "active" }], "principal_part": 1 },
+        { "form": "εἶεν",   "parses": [{ "person": "3rd", "number": "plural",   "tense": "present", "mood": "optative", "voice": "active" }], "principal_part": 1 },
+
+        { "form": "ἴσθι",   "parses": [{ "person": "2nd", "number": "singular", "tense": "present", "mood": "imperative", "voice": "active" }], "principal_part": 1 },
+        { "form": "ἔστω",   "parses": [{ "person": "3rd", "number": "singular", "tense": "present", "mood": "imperative", "voice": "active" }], "principal_part": 1 },
+        { "form": "ἔστε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "present", "mood": "imperative", "voice": "active" }], "principal_part": 1 },
+        { "form": "ἔστων",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "present", "mood": "imperative", "voice": "active" }], "principal_part": 1 },
+
+        { "form": "εἶναι",  "parses": [{ "person": null, "number": null, "tense": "present", "mood": "infinitive", "voice": "active" }], "principal_part": 1 },
+
+        { "form": "ἦν",     "parses": [{ "person": "1st", "number": "singular", "tense": "imperfect", "mood": "indicative", "voice": "active" }, { "person": "3rd", "number": "singular", "tense": "imperfect", "mood": "indicative", "voice": "active" }], "principal_part": 1 },
+        { "form": "ἦσθα",   "parses": [{ "person": "2nd", "number": "singular", "tense": "imperfect", "mood": "indicative", "voice": "active" }], "principal_part": 1 },
+        { "form": "ἦμεν",   "parses": [{ "person": "1st", "number": "plural",   "tense": "imperfect", "mood": "indicative", "voice": "active" }], "principal_part": 1 },
+        { "form": "ἦτε",    "parses": [{ "person": "2nd", "number": "plural",   "tense": "imperfect", "mood": "indicative", "voice": "active" }, { "person": "2nd", "number": "plural", "tense": "present", "mood": "subjunctive", "voice": "active" }], "principal_part": 1 },
+        { "form": "ἦσαν",   "parses": [{ "person": "3rd", "number": "plural",   "tense": "imperfect", "mood": "indicative", "voice": "active" }], "principal_part": 1 },
+
+        { "form": "ἔσομαι",    "parses": [{ "person": "1st", "number": "singular", "tense": "future", "mood": "indicative", "voice": "active" }], "principal_part": 2 },
+        { "form": "ἔσῃ",       "parses": [{ "person": "2nd", "number": "singular", "tense": "future", "mood": "indicative", "voice": "active" }], "principal_part": 2 },
+        { "form": "ἔσται",     "parses": [{ "person": "3rd", "number": "singular", "tense": "future", "mood": "indicative", "voice": "active" }], "principal_part": 2 },
+        { "form": "ἐσόμεθα",   "parses": [{ "person": "1st", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "active" }], "principal_part": 2 },
+        { "form": "ἔσεσθε",    "parses": [{ "person": "2nd", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "active" }], "principal_part": 2 },
+        { "form": "ἔσονται",   "parses": [{ "person": "3rd", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "active" }], "principal_part": 2 },
+
+        { "form": "ἐσοίμην",   "parses": [{ "person": "1st", "number": "singular", "tense": "future", "mood": "optative", "voice": "active" }], "principal_part": 2 },
+        { "form": "ἔσοιο",     "parses": [{ "person": "2nd", "number": "singular", "tense": "future", "mood": "optative", "voice": "active" }], "principal_part": 2 },
+        { "form": "ἔσοιτο",    "parses": [{ "person": "3rd", "number": "singular", "tense": "future", "mood": "optative", "voice": "active" }], "principal_part": 2 },
+        { "form": "ἐσοίμεθα",  "parses": [{ "person": "1st", "number": "plural",   "tense": "future", "mood": "optative", "voice": "active" }], "principal_part": 2 },
+        { "form": "ἔσοισθε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "future", "mood": "optative", "voice": "active" }], "principal_part": 2 },
+        { "form": "ἔσοιντο",   "parses": [{ "person": "3rd", "number": "plural",   "tense": "future", "mood": "optative", "voice": "active" }], "principal_part": 2 },
+
+        { "form": "ἔσεσθαι",   "parses": [{ "person": null, "number": null, "tense": "future", "mood": "infinitive", "voice": "active" }], "principal_part": 2 }
+
+      ]
     }
   ]
 }

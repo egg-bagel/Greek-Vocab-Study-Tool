@@ -29,23 +29,14 @@ let mode = 1;  // 1 for Greek to Eng, 2 for Eng to Greek, 3 for principal parts 
 
 // ======= UTILITIES/HELPERS =========
 
-// Gets a random verb form
-// This is temporarily filtering out infinitives and participles, which have no person
-// or number, to make testing easier
+// Gets a random verb form (filters out infinitives, which have no person/number)
+// TODO: add infinitive support with a simplified UI (tense/mood/voice only)
 function getRandomForm() {
   const verb = verbData.verbs[Math.floor(Math.random() * verbData.verbs.length)];
-  const finiteForms = verb.forms.filter(f => f.person !== null);
+  const finiteForms = verb.forms.filter(f => f.parses[0].person !== null);
   const form = finiteForms[Math.floor(Math.random() * finiteForms.length)];
   return { verb, form };
 }
-/*
-function getRandomForm() {
-  const verb = verbData.verbs[Math.floor(Math.random() * verbData.verbs.length)];
-  const form = verb.forms[Math.floor(Math.random() * verb.forms.length)];
-  return { verb, form };  // this is shorthand for return { verb: verb, form: form };
-  
-}
-  */
 
 // ======== MAIN LOGIC / EVENT HANDLERS ==========
 
@@ -83,6 +74,12 @@ function switchMode(newMode) {
 
 let currentVerb;
 let currentForm;
+let currentParse;  // for verbs with more than one correct parse
+
+// Helper for loadQuestion()
+function getRandomParse(form) {
+  return form.parses[Math.floor(Math.random() * form.parses.length)];
+}
 
 // Loads a question to the quiz screen based on what mode is selected.
 function loadQuestion() {
@@ -98,7 +95,17 @@ function loadQuestion() {
   else if (mode === 2)
   {
     challenge2.textContent = `${currentVerb.dictionary_entry} ${currentVerb.meaning}`;
-    formSpecs.textContent = `${currentForm.person} person ${currentForm.number} ${currentForm.tense} ${currentForm.mood} ${currentForm.voice}`; 
+
+    currentParse = getRandomParse(currentForm);
+    // If the verb is an infinitive, don't display person or number
+    if (currentForm.mood === "infinitive")
+    {
+      formSpecs.textContent = `${currentParse.tense} ${currentParse.mood} ${currentParse.voice}`;
+    }
+    else
+    {
+      formSpecs.textContent = `${currentParse.person} person ${currentParse.number} ${currentParse.tense} ${currentParse.mood} ${currentParse.voice}`;
+    } 
   }
   else if (mode === 3)
   {
@@ -108,11 +115,7 @@ function loadQuestion() {
   }
 }
 
-// TODO: some forms are ambiguous (e.g. λύετε is present active indicative
-// OR present active imperative). Currently only one parse is stored per form.
-// Fix: store an array of valid parses and check against all of them in checkAnswer().
-
-// Checks the user's answers for parsing mode.
+// Checks the user's answer in Greek to English mode.
 function checkAnswerParse() {
   const selectedPerson = document.getElementById('person').value;
   const selectedNumber = document.getElementById('number').value;
@@ -138,6 +141,7 @@ function checkAnswerParse() {
   }
 }
 
+// Checks the user's answer in English to Greek mode.
 function checkAnswerVerbForm() {
   const answer = document.getElementById('userAnswer').value;
 
@@ -151,6 +155,7 @@ function checkAnswerVerbForm() {
   }
 }
 
+// Checks the user's answer in principal parts mode.
 function checkPrincipalParts() {
   const correct = currentVerb.principal_parts;
   const inputs = [pp1, pp2, pp3, pp4, pp5, pp6];
@@ -171,6 +176,98 @@ function checkPrincipalParts() {
   }
 }
 
+// Displays the answer in Greek to English mode.
+function showAnswerParse() {
+  let answerString = "";
+
+    if (currentForm.parses.length === 1)
+    {
+      answerString = `${currentForm.parses[0].person} person ${currentForm.parses[0].number} ${currentForm.parses[0].tense} ${currentForm.parses[0].mood} ${currentForm.parses[0].voice}`;
+    }
+    else
+    {
+      let i = 0;
+      do {
+        let currentLine = `${currentForm.parses[i].person} person ${currentForm.parses[i].number} ${currentForm.parses[i].tense} ${currentForm.parses[i].mood} ${currentForm.parses[i].voice}`;
+        if (i != (currentForm.parses.length - 1))
+        {
+          currentLine += "\n";
+        }
+        answerString += currentLine;
+        i++;
+      } while (i < currentForm.parses.length);
+    }
+
+    feedback.textContent = answerString;
+}
+
+// Displays the answer in English to Greek mode.
+function showAnswerForm() {
+  feedback.textContent = `${currentForm.form}`;
+}
+
+// Displays the answer in principal parts mode.
+function showAnswerPP() {
+  let answerString = "";
+  for (let i = 0; i < 6; i++)
+  {
+    if (currentVerb.principal_parts[i] != null)
+    {
+      answerString += `${currentVerb.principal_parts[i]}`
+    }
+    else
+    {
+      answerString += "---";
+    }
+
+    if (i != 5)
+    {
+      answerString += ", ";
+    }
+  }
+
+  feedback.textContent = answerString;
+}
+
+// Clears all input forms and generates a new question.
+function nextQuestion() {
+  if (mode === 1)
+  {
+    document.getElementById("person").value = '1st';
+    document.getElementById("number").value = 'singular';
+    document.getElementById("tense").value = 'present';
+    document.getElementById("mood").value = 'indicative';
+    document.getElementById("voice").value = 'active';
+    feedback.textContent = "";
+
+    loadQuestion();
+  }
+  else if (mode === 2)
+  {
+    document.getElementById("userAnswer").value = "";
+    feedback.textContent = "";
+
+    loadQuestion();
+  }
+  else if (mode === 3)
+  {
+    document.getElementById("pp1").value = "";
+    document.getElementById("pp2").value = "";
+    document.getElementById("pp3").value = "";
+    document.getElementById("pp4").value = "";
+    document.getElementById("pp5").value = "";
+    document.getElementById("pp6").value = "";
+    feedback.textContent = "";
+
+    [pp1, pp2, pp3, pp4, pp5, pp6].forEach(input => {
+      input.value = '';
+      input.style.borderColor = '';
+    });
+
+    loadQuestion();
+  }
+}
+
 function backToMenu() {
   document.getElementById('quizScreen').classList.add('hidden');
   document.getElementById('modeSelect').classList.remove('hidden');
@@ -185,4 +282,11 @@ PrincipalPartsButton.addEventListener('click', () => switchMode(3));
 submitParseButton.addEventListener('click', () => checkAnswerParse());
 submitVerbFormButton.addEventListener('click', () => checkAnswerVerbForm());
 submitPrincipalPartsButton.addEventListener('click', () => checkPrincipalParts());
+document.getElementById('showAnswerParse').addEventListener('click', showAnswerParse);
+document.getElementById('showAnswerForm').addEventListener('click', showAnswerForm);
+document.getElementById('showAnswerPP').addEventListener('click', showAnswerPP);
+document.querySelectorAll('.next').forEach(button => {
+  button.addEventListener('click', nextQuestion);
+});
+
 document.getElementById('backToMenu').addEventListener('click', backToMenu);
