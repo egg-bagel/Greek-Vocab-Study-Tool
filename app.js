@@ -120,12 +120,15 @@ function checkAnswerParse() {
   const selectedMood   = document.getElementById('mood').value;
   const selectedVoice  = document.getElementById('voice').value;
 
-  const correct =
-    selectedPerson === currentForm.person &&
-    selectedNumber === currentForm.number &&
-    selectedTense  === currentForm.tense  &&
-    selectedMood   === currentForm.mood   &&
-    selectedVoice  === currentForm.voice;
+  // Compare to each element of the parses array
+  // some is a JS array method that returns true if at least one element passes the test
+  const correct = currentForm.parses.some(parse =>
+    selectedPerson === parse.person &&
+    selectedNumber === parse.number &&
+    selectedTense  === parse.tense  &&
+    selectedMood   === parse.mood   &&
+    selectedVoice  === parse.voice
+  );
 
   if (correct) {
     feedback.textContent = 'Correct!';
