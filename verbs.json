@@ -272,6 +272,792 @@
         { "form": "ἔσεσθαι",   "parses": [{ "person": null, "number": null, "tense": "future", "mood": "infinitive", "voice": "active" }], "principal_part": 2 }
 
       ]
+    },
+    {
+      "dictionary_entry": "πιστεύω",
+      "meaning": "to believe, trust (+ dative)",
+      "tags": ["regular", "thematic"],
+      "notes": null,
+      "principal_parts": ["πιστεύω", "πιστεύσω", "ἐπίστευσα", "πεπίστευκα", "πεπίστευμαι", "ἐπιστεύθην"],
+      "forms": [
+
+        { "form": "πιστεύω",    "parses": [{ "person": "1st", "number": "singular", "tense": "present", "mood": "indicative",  "voice": "active" }, { "person": "1st", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "active" }], "principal_part": 1 },
+        { "form": "πιστεύεις",  "parses": [{ "person": "2nd", "number": "singular", "tense": "present", "mood": "indicative",  "voice": "active" }], "principal_part": 1 },
+        { "form": "πιστεύει",   "parses": [{ "person": "3rd", "number": "singular", "tense": "present", "mood": "indicative",  "voice": "active" }, { "person": "3rd", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "active" }], "principal_part": 1 },
+        { "form": "πιστεύομεν", "parses": [{ "person": "1st", "number": "plural",   "tense": "present", "mood": "indicative",  "voice": "active" }], "principal_part": 1 },
+        { "form": "πιστεύετε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "present", "mood": "indicative",  "voice": "active" }, { "person": "2nd", "number": "plural", "tense": "present", "mood": "imperative", "voice": "active" }], "principal_part": 1 },
+        { "form": "πιστεύουσι", "parses": [{ "person": "3rd", "number": "plural",   "tense": "present", "mood": "indicative",  "voice": "active" }], "principal_part": 1 },
+
+        { "form": "πιστεύομαι",   "parses": [{ "person": "1st", "number": "singular", "tense": "present", "mood": "indicative",  "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "πιστεύῃ",      "parses": [{ "person": "2nd", "number": "singular", "tense": "present", "mood": "indicative",  "voice": "middle/passive" }, { "person": "2nd", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "middle/passive" }, { "person": "3rd", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "πιστεύεται",   "parses": [{ "person": "3rd", "number": "singular", "tense": "present", "mood": "indicative",  "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "πιστευόμεθα",  "parses": [{ "person": "1st", "number": "plural",   "tense": "present", "mood": "indicative",  "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "πιστεύεσθε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "present", "mood": "indicative",  "voice": "middle/passive" }, { "person": "2nd", "number": "plural", "tense": "present", "mood": "imperative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "πιστεύονται",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "present", "mood": "indicative",  "voice": "middle/passive" }], "principal_part": 1 },
+
+        { "form": "πιστεύῃς",   "parses": [{ "person": "2nd", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "active" }], "principal_part": 1 },
+        { "form": "πιστεύωμεν", "parses": [{ "person": "1st", "number": "plural",   "tense": "present", "mood": "subjunctive", "voice": "active" }], "principal_part": 1 },
+        { "form": "πιστεύητε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "present", "mood": "subjunctive", "voice": "active" }], "principal_part": 1 },
+        { "form": "πιστεύωσι",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "present", "mood": "subjunctive", "voice": "active" }], "principal_part": 1 },
+
+        { "form": "πιστεύωμαι",   "parses": [{ "person": "1st", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "πιστεύηται",   "parses": [{ "person": "3rd", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "πιστευώμεθα",  "parses": [{ "person": "1st", "number": "plural",   "tense": "present", "mood": "subjunctive", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "πιστεύησθε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "present", "mood": "subjunctive", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "πιστεύωνται",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "present", "mood": "subjunctive", "voice": "middle/passive" }], "principal_part": 1 },
+
+        { "form": "πιστεύοιμι",  "parses": [{ "person": "1st", "number": "singular", "tense": "present", "mood": "optative", "voice": "active" }], "principal_part": 1 },
+        { "form": "πιστεύοις",   "parses": [{ "person": "2nd", "number": "singular", "tense": "present", "mood": "optative", "voice": "active" }], "principal_part": 1 },
+        { "form": "πιστεύοι",    "parses": [{ "person": "3rd", "number": "singular", "tense": "present", "mood": "optative", "voice": "active" }], "principal_part": 1 },
+        { "form": "πιστεύοιμεν", "parses": [{ "person": "1st", "number": "plural",   "tense": "present", "mood": "optative", "voice": "active" }], "principal_part": 1 },
+        { "form": "πιστεύοιτε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "present", "mood": "optative", "voice": "active" }], "principal_part": 1 },
+        { "form": "πιστεύοιεν",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "present", "mood": "optative", "voice": "active" }], "principal_part": 1 },
+
+        { "form": "πιστευοίμην",  "parses": [{ "person": "1st", "number": "singular", "tense": "present", "mood": "optative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "πιστεύοιο",    "parses": [{ "person": "2nd", "number": "singular", "tense": "present", "mood": "optative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "πιστεύοιτο",   "parses": [{ "person": "3rd", "number": "singular", "tense": "present", "mood": "optative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "πιστευοίμεθα", "parses": [{ "person": "1st", "number": "plural",   "tense": "present", "mood": "optative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "πιστεύοισθε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "present", "mood": "optative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "πιστεύοιντο",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "present", "mood": "optative", "voice": "middle/passive" }], "principal_part": 1 },
+
+        { "form": "πίστευε",       "parses": [{ "person": "2nd", "number": "singular", "tense": "present", "mood": "imperative", "voice": "active" }], "principal_part": 1 },
+        { "form": "πιστευέτω",     "parses": [{ "person": "3rd", "number": "singular", "tense": "present", "mood": "imperative", "voice": "active" }], "principal_part": 1 },
+        { "form": "πιστευόντων",   "parses": [{ "person": "3rd", "number": "plural",   "tense": "present", "mood": "imperative", "voice": "active" }], "principal_part": 1 },
+
+        { "form": "πιστεύου",      "parses": [{ "person": "2nd", "number": "singular", "tense": "present", "mood": "imperative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "πιστευέσθω",    "parses": [{ "person": "3rd", "number": "singular", "tense": "present", "mood": "imperative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "πιστευέσθων",   "parses": [{ "person": "3rd", "number": "plural",   "tense": "present", "mood": "imperative", "voice": "middle/passive" }], "principal_part": 1 },
+
+        { "form": "πιστεύειν",   "parses": [{ "person": null, "number": null, "tense": "present", "mood": "infinitive", "voice": "active" }],        "principal_part": 1 },
+        { "form": "πιστεύεσθαι", "parses": [{ "person": null, "number": null, "tense": "present", "mood": "infinitive", "voice": "middle/passive" }], "principal_part": 1 },
+
+        { "form": "ἐπίστευον",   "parses": [{ "person": "1st", "number": "singular", "tense": "imperfect", "mood": "indicative", "voice": "active" }, { "person": "3rd", "number": "plural", "tense": "imperfect", "mood": "indicative", "voice": "active" }], "principal_part": 1 },
+        { "form": "ἐπίστευες",   "parses": [{ "person": "2nd", "number": "singular", "tense": "imperfect", "mood": "indicative", "voice": "active" }], "principal_part": 1 },
+        { "form": "ἐπίστευε",    "parses": [{ "person": "3rd", "number": "singular", "tense": "imperfect", "mood": "indicative", "voice": "active" }], "principal_part": 1 },
+        { "form": "ἐπιστεύομεν", "parses": [{ "person": "1st", "number": "plural",   "tense": "imperfect", "mood": "indicative", "voice": "active" }], "principal_part": 1 },
+        { "form": "ἐπιστεύετε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "imperfect", "mood": "indicative", "voice": "active" }], "principal_part": 1 },
+
+        { "form": "ἐπιστευόμην",  "parses": [{ "person": "1st", "number": "singular", "tense": "imperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ἐπιστεύου",    "parses": [{ "person": "2nd", "number": "singular", "tense": "imperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ἐπιστεύετο",   "parses": [{ "person": "3rd", "number": "singular", "tense": "imperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ἐπιστευόμεθα", "parses": [{ "person": "1st", "number": "plural",   "tense": "imperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ἐπιστεύεσθε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "imperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ἐπιστεύοντο",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "imperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 1 },
+
+        { "form": "πιστεύσω",    "parses": [{ "person": "1st", "number": "singular", "tense": "future", "mood": "indicative",  "voice": "active" }, { "person": "1st", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "active" }], "principal_part": 2 },
+        { "form": "πιστεύσεις",  "parses": [{ "person": "2nd", "number": "singular", "tense": "future", "mood": "indicative",  "voice": "active" }], "principal_part": 2 },
+        { "form": "πιστεύσει",   "parses": [{ "person": "3rd", "number": "singular", "tense": "future", "mood": "indicative",  "voice": "active" }], "principal_part": 2 },
+        { "form": "πιστεύσομεν", "parses": [{ "person": "1st", "number": "plural",   "tense": "future", "mood": "indicative",  "voice": "active" }], "principal_part": 2 },
+        { "form": "πιστεύσετε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "future", "mood": "indicative",  "voice": "active" }], "principal_part": 2 },
+        { "form": "πιστεύσουσι", "parses": [{ "person": "3rd", "number": "plural",   "tense": "future", "mood": "indicative",  "voice": "active" }], "principal_part": 2 },
+
+        { "form": "πιστεύσομαι",   "parses": [{ "person": "1st", "number": "singular", "tense": "future", "mood": "indicative", "voice": "middle" }], "principal_part": 2 },
+        { "form": "πιστεύσῃ",      "parses": [{ "person": "2nd", "number": "singular", "tense": "future", "mood": "indicative", "voice": "middle" }], "principal_part": 2 },
+        { "form": "πιστεύσεται",   "parses": [{ "person": "3rd", "number": "singular", "tense": "future", "mood": "indicative", "voice": "middle" }], "principal_part": 2 },
+        { "form": "πιστευσόμεθα",  "parses": [{ "person": "1st", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "middle" }], "principal_part": 2 },
+        { "form": "πιστεύσεσθε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "middle" }], "principal_part": 2 },
+        { "form": "πιστεύσονται",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "middle" }], "principal_part": 2 },
+
+        { "form": "πιστεύσειν",   "parses": [{ "person": null, "number": null, "tense": "future", "mood": "infinitive", "voice": "active" }],  "principal_part": 2 },
+        { "form": "πιστεύσεσθαι", "parses": [{ "person": null, "number": null, "tense": "future", "mood": "infinitive", "voice": "middle" }],  "principal_part": 2 },
+
+        { "form": "ἐπίστευσα",    "parses": [{ "person": "1st", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "active" }], "principal_part": 3 },
+        { "form": "ἐπίστευσας",   "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "active" }], "principal_part": 3 },
+        { "form": "ἐπίστευσε",    "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "active" }], "principal_part": 3 },
+        { "form": "ἐπιστεύσαμεν", "parses": [{ "person": "1st", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "active" }], "principal_part": 3 },
+        { "form": "ἐπιστεύσατε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "active" }], "principal_part": 3 },
+        { "form": "ἐπίστευσαν",   "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "active" }], "principal_part": 3 },
+
+        { "form": "ἐπιστευσάμην",  "parses": [{ "person": "1st", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "ἐπιστεύσω",     "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "ἐπιστεύσατο",   "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "ἐπιστευσάμεθα", "parses": [{ "person": "1st", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "ἐπιστεύσασθε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "ἐπιστεύσαντο",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "middle" }], "principal_part": 3 },
+
+        { "form": "πιστεύσῃς",   "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "active" }], "principal_part": 3 },
+        { "form": "πιστεύσῃ",    "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "active" }, { "person": "2nd", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "middle" }], "principal_part": 3 },
+        { "form": "πιστεύσωμεν", "parses": [{ "person": "1st", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "active" }], "principal_part": 3 },
+        { "form": "πιστεύσητε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "active" }], "principal_part": 3 },
+        { "form": "πιστεύσωσι",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "active" }], "principal_part": 3 },
+
+        { "form": "πιστεύσωμαι",  "parses": [{ "person": "1st", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "middle" }], "principal_part": 3 },
+        { "form": "πιστεύσηται",  "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "middle" }], "principal_part": 3 },
+        { "form": "πιστευσώμεθα", "parses": [{ "person": "1st", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "middle" }], "principal_part": 3 },
+        { "form": "πιστεύσησθε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "middle" }], "principal_part": 3 },
+        { "form": "πιστεύσωνται", "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "middle" }], "principal_part": 3 },
+
+        { "form": "πιστεύσαιμι",  "parses": [{ "person": "1st", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "active" }], "principal_part": 3 },
+        { "form": "πιστεύσαις",   "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "active" }], "principal_part": 3 },
+        { "form": "πιστεύσαι",    "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "active" }, { "person": "2nd", "number": "singular", "tense": "aorist", "mood": "imperative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "πιστεύσαιμεν", "parses": [{ "person": "1st", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "active" }], "principal_part": 3 },
+        { "form": "πιστεύσαιτε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "active" }], "principal_part": 3 },
+        { "form": "πιστεύσαιεν",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "active" }], "principal_part": 3 },
+
+        { "form": "πιστευσαίμην",  "parses": [{ "person": "1st", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "πιστεύσαιο",    "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "πιστεύσαιτο",   "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "πιστευσαίμεθα", "parses": [{ "person": "1st", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "πιστεύσαισθε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "πιστεύσαιντο",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "middle" }], "principal_part": 3 },
+
+        { "form": "πίστευσον",     "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "imperative", "voice": "active" }], "principal_part": 3 },
+        { "form": "πιστευσάτω",    "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "imperative", "voice": "active" }], "principal_part": 3 },
+        { "form": "πιστεύσατε",    "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "imperative", "voice": "active" }], "principal_part": 3 },
+        { "form": "πιστευσάντων",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "imperative", "voice": "active" }], "principal_part": 3 },
+
+        { "form": "πιστευσάσθω",   "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "imperative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "πιστεύσασθε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "imperative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "πιστευσάσθων",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "imperative", "voice": "middle" }], "principal_part": 3 },
+
+        { "form": "πιστεῦσαι",    "parses": [{ "person": null, "number": null, "tense": "aorist", "mood": "infinitive", "voice": "active" }],  "principal_part": 3 },
+        { "form": "πιστεύσασθαι", "parses": [{ "person": null, "number": null, "tense": "aorist", "mood": "infinitive", "voice": "middle" }],  "principal_part": 3 },
+
+        { "form": "πεπίστευκα",    "parses": [{ "person": "1st", "number": "singular", "tense": "perfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "πεπίστευκας",   "parses": [{ "person": "2nd", "number": "singular", "tense": "perfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "πεπίστευκε",    "parses": [{ "person": "3rd", "number": "singular", "tense": "perfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "πεπιστεύκαμεν", "parses": [{ "person": "1st", "number": "plural",   "tense": "perfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "πεπιστεύκατε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "perfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "πεπιστεύκασι",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "perfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+
+        { "form": "πεπιστευκέναι", "parses": [{ "person": null, "number": null, "tense": "perfect", "mood": "infinitive", "voice": "active" }], "principal_part": 4 },
+
+        { "form": "ἐπεπιστεύκη",    "parses": [{ "person": "1st", "number": "singular", "tense": "pluperfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "ἐπεπιστεύκης",   "parses": [{ "person": "2nd", "number": "singular", "tense": "pluperfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "ἐπεπιστεύκει",   "parses": [{ "person": "3rd", "number": "singular", "tense": "pluperfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "ἐπεπιστεύκεμεν", "parses": [{ "person": "1st", "number": "plural",   "tense": "pluperfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "ἐπεπιστεύκετε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "pluperfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "ἐπεπιστεύκεσαν", "parses": [{ "person": "3rd", "number": "plural",   "tense": "pluperfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+
+        { "form": "πεπίστευμαι",   "parses": [{ "person": "1st", "number": "singular", "tense": "perfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "πεπίστευσαι",   "parses": [{ "person": "2nd", "number": "singular", "tense": "perfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "πεπίστευται",   "parses": [{ "person": "3rd", "number": "singular", "tense": "perfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "πεπιστεύμεθα",  "parses": [{ "person": "1st", "number": "plural",   "tense": "perfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "πεπίστευσθε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "perfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "πεπίστευνται",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "perfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+
+        { "form": "πεπιστεύσθαι", "parses": [{ "person": null, "number": null, "tense": "perfect", "mood": "infinitive", "voice": "middle/passive" }], "principal_part": 5 },
+
+        { "form": "ἐπεπιστεύμην",  "parses": [{ "person": "1st", "number": "singular", "tense": "pluperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "ἐπεπίστευσο",   "parses": [{ "person": "2nd", "number": "singular", "tense": "pluperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "ἐπεπίστευτο",   "parses": [{ "person": "3rd", "number": "singular", "tense": "pluperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "ἐπεπιστεύμεθα", "parses": [{ "person": "1st", "number": "plural",   "tense": "pluperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "ἐπεπίστευσθε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "pluperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "ἐπεπίστευντο",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "pluperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+
+        { "form": "ἐπιστεύθην",    "parses": [{ "person": "1st", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ἐπιστεύθης",    "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ἐπιστεύθη",     "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ἐπιστεύθημεν",  "parses": [{ "person": "1st", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ἐπιστεύθητε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ἐπιστεύθησαν",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+
+        { "form": "πιστευθῶ",    "parses": [{ "person": "1st", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "passive" }], "principal_part": 6 },
+        { "form": "πιστευθῇς",   "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "passive" }], "principal_part": 6 },
+        { "form": "πιστευθῇ",    "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "passive" }], "principal_part": 6 },
+        { "form": "πιστευθῶμεν", "parses": [{ "person": "1st", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "passive" }], "principal_part": 6 },
+        { "form": "πιστευθῆτε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "passive" }], "principal_part": 6 },
+        { "form": "πιστευθῶσι",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "passive" }], "principal_part": 6 },
+
+        { "form": "πιστευθείην",   "parses": [{ "person": "1st", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "πιστευθείης",   "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "πιστευθείη",    "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "πιστευθεῖμεν",  "parses": [{ "person": "1st", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "πιστευθεῖτε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "πιστευθεῖεν",   "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "passive" }], "principal_part": 6 },
+
+        { "form": "πιστεύθητι",   "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "imperative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "πιστευθήτω",   "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "imperative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "πιστεύθητε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "imperative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "πιστευθέντων", "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "imperative", "voice": "passive" }], "principal_part": 6 },
+
+        { "form": "πιστευθῆναι", "parses": [{ "person": null, "number": null, "tense": "aorist", "mood": "infinitive", "voice": "passive" }], "principal_part": 6 },
+
+        { "form": "πιστευθήσομαι",  "parses": [{ "person": "1st", "number": "singular", "tense": "future", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "πιστευθήσῃ",     "parses": [{ "person": "2nd", "number": "singular", "tense": "future", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "πιστευθήσεται",  "parses": [{ "person": "3rd", "number": "singular", "tense": "future", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "πιστευθησόμεθα", "parses": [{ "person": "1st", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "πιστευθήσεσθε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "πιστευθήσονται", "parses": [{ "person": "3rd", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+
+        { "form": "πιστευθήσεσθαι", "parses": [{ "person": null, "number": null, "tense": "future", "mood": "infinitive", "voice": "passive" }], "principal_part": 6 }
+      ]
+    },
+    {
+      "dictionary_entry": "γράφω",
+      "meaning": "to write, draw",
+      "tags": ["regular", "thematic"],
+      "notes": "Stem-final π produces consonant cluster changes at junctures: γράφ + σ = γράψ (future/aorist), γράφ + κ = γράφ (perfect active).",
+      "principal_parts": ["γράφω", "γράψω", "ἔγραψα", "γέγραφα", "γέγραμμαι", "ἐγράφην"],
+      "forms": [
+
+        { "form": "γράφω",    "parses": [{ "person": "1st", "number": "singular", "tense": "present", "mood": "indicative",  "voice": "active" }, { "person": "1st", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "active" }], "principal_part": 1 },
+        { "form": "γράφεις",  "parses": [{ "person": "2nd", "number": "singular", "tense": "present", "mood": "indicative",  "voice": "active" }], "principal_part": 1 },
+        { "form": "γράφει",   "parses": [{ "person": "3rd", "number": "singular", "tense": "present", "mood": "indicative",  "voice": "active" }, { "person": "3rd", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "active" }], "principal_part": 1 },
+        { "form": "γράφομεν", "parses": [{ "person": "1st", "number": "plural",   "tense": "present", "mood": "indicative",  "voice": "active" }], "principal_part": 1 },
+        { "form": "γράφετε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "present", "mood": "indicative",  "voice": "active" }, { "person": "2nd", "number": "plural", "tense": "present", "mood": "imperative", "voice": "active" }], "principal_part": 1 },
+        { "form": "γράφουσι", "parses": [{ "person": "3rd", "number": "plural",   "tense": "present", "mood": "indicative",  "voice": "active" }], "principal_part": 1 },
+
+        { "form": "γράφομαι",   "parses": [{ "person": "1st", "number": "singular", "tense": "present", "mood": "indicative",  "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "γράφῃ",      "parses": [{ "person": "2nd", "number": "singular", "tense": "present", "mood": "indicative",  "voice": "middle/passive" }, { "person": "2nd", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "middle/passive" }, { "person": "3rd", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "γράφεται",   "parses": [{ "person": "3rd", "number": "singular", "tense": "present", "mood": "indicative",  "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "γραφόμεθα",  "parses": [{ "person": "1st", "number": "plural",   "tense": "present", "mood": "indicative",  "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "γράφεσθε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "present", "mood": "indicative",  "voice": "middle/passive" }, { "person": "2nd", "number": "plural", "tense": "present", "mood": "imperative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "γράφονται",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "present", "mood": "indicative",  "voice": "middle/passive" }], "principal_part": 1 },
+
+        { "form": "γράφῃς",   "parses": [{ "person": "2nd", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "active" }], "principal_part": 1 },
+        { "form": "γράφωμεν", "parses": [{ "person": "1st", "number": "plural",   "tense": "present", "mood": "subjunctive", "voice": "active" }], "principal_part": 1 },
+        { "form": "γράφητε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "present", "mood": "subjunctive", "voice": "active" }], "principal_part": 1 },
+        { "form": "γράφωσι",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "present", "mood": "subjunctive", "voice": "active" }], "principal_part": 1 },
+
+        { "form": "γράφωμαι",   "parses": [{ "person": "1st", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "γράφηται",   "parses": [{ "person": "3rd", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "γραφώμεθα",  "parses": [{ "person": "1st", "number": "plural",   "tense": "present", "mood": "subjunctive", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "γράφησθε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "present", "mood": "subjunctive", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "γράφωνται",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "present", "mood": "subjunctive", "voice": "middle/passive" }], "principal_part": 1 },
+
+        { "form": "γράφοιμι",  "parses": [{ "person": "1st", "number": "singular", "tense": "present", "mood": "optative", "voice": "active" }], "principal_part": 1 },
+        { "form": "γράφοις",   "parses": [{ "person": "2nd", "number": "singular", "tense": "present", "mood": "optative", "voice": "active" }], "principal_part": 1 },
+        { "form": "γράφοι",    "parses": [{ "person": "3rd", "number": "singular", "tense": "present", "mood": "optative", "voice": "active" }], "principal_part": 1 },
+        { "form": "γράφοιμεν", "parses": [{ "person": "1st", "number": "plural",   "tense": "present", "mood": "optative", "voice": "active" }], "principal_part": 1 },
+        { "form": "γράφοιτε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "present", "mood": "optative", "voice": "active" }], "principal_part": 1 },
+        { "form": "γράφοιεν",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "present", "mood": "optative", "voice": "active" }], "principal_part": 1 },
+
+        { "form": "γραφοίμην",  "parses": [{ "person": "1st", "number": "singular", "tense": "present", "mood": "optative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "γράφοιο",    "parses": [{ "person": "2nd", "number": "singular", "tense": "present", "mood": "optative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "γράφοιτο",   "parses": [{ "person": "3rd", "number": "singular", "tense": "present", "mood": "optative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "γραφοίμεθα", "parses": [{ "person": "1st", "number": "plural",   "tense": "present", "mood": "optative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "γράφοισθε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "present", "mood": "optative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "γράφοιντο",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "present", "mood": "optative", "voice": "middle/passive" }], "principal_part": 1 },
+
+        { "form": "γράφε",     "parses": [{ "person": "2nd", "number": "singular", "tense": "present", "mood": "imperative", "voice": "active" }], "principal_part": 1 },
+        { "form": "γραφέτω",   "parses": [{ "person": "3rd", "number": "singular", "tense": "present", "mood": "imperative", "voice": "active" }], "principal_part": 1 },
+        { "form": "γραφόντων", "parses": [{ "person": "3rd", "number": "plural",   "tense": "present", "mood": "imperative", "voice": "active" }], "principal_part": 1 },
+
+        { "form": "γράφου",     "parses": [{ "person": "2nd", "number": "singular", "tense": "present", "mood": "imperative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "γραφέσθω",   "parses": [{ "person": "3rd", "number": "singular", "tense": "present", "mood": "imperative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "γραφέσθων",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "present", "mood": "imperative", "voice": "middle/passive" }], "principal_part": 1 },
+
+        { "form": "γράφειν",   "parses": [{ "person": null, "number": null, "tense": "present", "mood": "infinitive", "voice": "active" }],        "principal_part": 1 },
+        { "form": "γράφεσθαι", "parses": [{ "person": null, "number": null, "tense": "present", "mood": "infinitive", "voice": "middle/passive" }], "principal_part": 1 },
+
+        { "form": "ἔγραφον",   "parses": [{ "person": "1st", "number": "singular", "tense": "imperfect", "mood": "indicative", "voice": "active" }, { "person": "3rd", "number": "plural", "tense": "imperfect", "mood": "indicative", "voice": "active" }], "principal_part": 1 },
+        { "form": "ἔγραφες",   "parses": [{ "person": "2nd", "number": "singular", "tense": "imperfect", "mood": "indicative", "voice": "active" }], "principal_part": 1 },
+        { "form": "ἔγραφε",    "parses": [{ "person": "3rd", "number": "singular", "tense": "imperfect", "mood": "indicative", "voice": "active" }], "principal_part": 1 },
+        { "form": "ἐγράφομεν", "parses": [{ "person": "1st", "number": "plural",   "tense": "imperfect", "mood": "indicative", "voice": "active" }], "principal_part": 1 },
+        { "form": "ἐγράφετε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "imperfect", "mood": "indicative", "voice": "active" }], "principal_part": 1 },
+
+        { "form": "ἐγραφόμην",  "parses": [{ "person": "1st", "number": "singular", "tense": "imperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ἐγράφου",    "parses": [{ "person": "2nd", "number": "singular", "tense": "imperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ἐγράφετο",   "parses": [{ "person": "3rd", "number": "singular", "tense": "imperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ἐγραφόμεθα", "parses": [{ "person": "1st", "number": "plural",   "tense": "imperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ἐγράφεσθε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "imperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ἐγράφοντο",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "imperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 1 },
+
+        { "form": "γράψω",    "parses": [{ "person": "1st", "number": "singular", "tense": "future", "mood": "indicative",  "voice": "active" }, { "person": "1st", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "active" }], "principal_part": 2 },
+        { "form": "γράψεις",  "parses": [{ "person": "2nd", "number": "singular", "tense": "future", "mood": "indicative",  "voice": "active" }], "principal_part": 2 },
+        { "form": "γράψει",   "parses": [{ "person": "3rd", "number": "singular", "tense": "future", "mood": "indicative",  "voice": "active" }], "principal_part": 2 },
+        { "form": "γράψομεν", "parses": [{ "person": "1st", "number": "plural",   "tense": "future", "mood": "indicative",  "voice": "active" }], "principal_part": 2 },
+        { "form": "γράψετε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "future", "mood": "indicative",  "voice": "active" }], "principal_part": 2 },
+        { "form": "γράψουσι", "parses": [{ "person": "3rd", "number": "plural",   "tense": "future", "mood": "indicative",  "voice": "active" }], "principal_part": 2 },
+
+        { "form": "γράψομαι",   "parses": [{ "person": "1st", "number": "singular", "tense": "future", "mood": "indicative", "voice": "middle" }], "principal_part": 2 },
+        { "form": "γράψῃ",      "parses": [{ "person": "2nd", "number": "singular", "tense": "future", "mood": "indicative", "voice": "middle" }], "principal_part": 2 },
+        { "form": "γράψεται",   "parses": [{ "person": "3rd", "number": "singular", "tense": "future", "mood": "indicative", "voice": "middle" }], "principal_part": 2 },
+        { "form": "γραψόμεθα",  "parses": [{ "person": "1st", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "middle" }], "principal_part": 2 },
+        { "form": "γράψεσθε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "middle" }], "principal_part": 2 },
+        { "form": "γράψονται",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "middle" }], "principal_part": 2 },
+
+        { "form": "γράψειν",   "parses": [{ "person": null, "number": null, "tense": "future", "mood": "infinitive", "voice": "active" }],  "principal_part": 2 },
+        { "form": "γράψεσθαι", "parses": [{ "person": null, "number": null, "tense": "future", "mood": "infinitive", "voice": "middle" }],  "principal_part": 2 },
+
+        { "form": "ἔγραψα",    "parses": [{ "person": "1st", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "active" }], "principal_part": 3 },
+        { "form": "ἔγραψας",   "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "active" }], "principal_part": 3 },
+        { "form": "ἔγραψε",    "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "active" }], "principal_part": 3 },
+        { "form": "ἐγράψαμεν", "parses": [{ "person": "1st", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "active" }], "principal_part": 3 },
+        { "form": "ἐγράψατε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "active" }], "principal_part": 3 },
+        { "form": "ἔγραψαν",   "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "active" }], "principal_part": 3 },
+
+        { "form": "ἐγραψάμην",  "parses": [{ "person": "1st", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "ἐγράψω",     "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "ἐγράψατο",   "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "ἐγραψάμεθα", "parses": [{ "person": "1st", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "ἐγράψασθε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "ἐγράψαντο",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "middle" }], "principal_part": 3 },
+
+        { "form": "γράψῃς",   "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "active" }], "principal_part": 3 },
+        { "form": "γράψῃ",    "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "active" }, { "person": "2nd", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "middle" }], "principal_part": 3 },
+        { "form": "γράψωμεν", "parses": [{ "person": "1st", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "active" }], "principal_part": 3 },
+        { "form": "γράψητε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "active" }], "principal_part": 3 },
+        { "form": "γράψωσι",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "active" }], "principal_part": 3 },
+
+        { "form": "γράψωμαι",  "parses": [{ "person": "1st", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "middle" }], "principal_part": 3 },
+        { "form": "γράψηται",  "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "middle" }], "principal_part": 3 },
+        { "form": "γραψώμεθα", "parses": [{ "person": "1st", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "middle" }], "principal_part": 3 },
+        { "form": "γράψησθε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "middle" }], "principal_part": 3 },
+        { "form": "γράψωνται", "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "middle" }], "principal_part": 3 },
+
+        { "form": "γράψαιμι",  "parses": [{ "person": "1st", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "active" }], "principal_part": 3 },
+        { "form": "γράψαις",   "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "active" }], "principal_part": 3 },
+        { "form": "γράψαι",    "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "active" }, { "person": "2nd", "number": "singular", "tense": "aorist", "mood": "imperative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "γράψαιμεν", "parses": [{ "person": "1st", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "active" }], "principal_part": 3 },
+        { "form": "γράψαιτε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "active" }], "principal_part": 3 },
+        { "form": "γράψαιεν",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "active" }], "principal_part": 3 },
+
+        { "form": "γραψαίμην",  "parses": [{ "person": "1st", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "γράψαιο",    "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "γράψαιτο",   "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "γραψαίμεθα", "parses": [{ "person": "1st", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "γράψαισθε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "γράψαιντο",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "middle" }], "principal_part": 3 },
+
+        { "form": "γράψον",    "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "imperative", "voice": "active" }], "principal_part": 3 },
+        { "form": "γραψάτω",   "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "imperative", "voice": "active" }], "principal_part": 3 },
+        { "form": "γράψατε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "imperative", "voice": "active" }], "principal_part": 3 },
+        { "form": "γραψάντων", "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "imperative", "voice": "active" }], "principal_part": 3 },
+
+        { "form": "γραψάσθω",  "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "imperative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "γράψασθε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "imperative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "γραψάσθων", "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "imperative", "voice": "middle" }], "principal_part": 3 },
+
+        { "form": "γράψαι",    "parses": [{ "person": null, "number": null, "tense": "aorist", "mood": "infinitive", "voice": "active" }],  "principal_part": 3 },
+        { "form": "γράψασθαι", "parses": [{ "person": null, "number": null, "tense": "aorist", "mood": "infinitive", "voice": "middle" }],  "principal_part": 3 },
+
+        { "form": "γέγραφα",    "parses": [{ "person": "1st", "number": "singular", "tense": "perfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "γέγραφας",   "parses": [{ "person": "2nd", "number": "singular", "tense": "perfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "γέγραφε",    "parses": [{ "person": "3rd", "number": "singular", "tense": "perfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "γεγράφαμεν", "parses": [{ "person": "1st", "number": "plural",   "tense": "perfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "γεγράφατε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "perfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "γεγράφασι",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "perfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+
+        { "form": "γεγραφέναι", "parses": [{ "person": null, "number": null, "tense": "perfect", "mood": "infinitive", "voice": "active" }], "principal_part": 4 },
+
+        { "form": "ἐγεγράφη",    "parses": [{ "person": "1st", "number": "singular", "tense": "pluperfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "ἐγεγράφης",   "parses": [{ "person": "2nd", "number": "singular", "tense": "pluperfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "ἐγεγράφει",   "parses": [{ "person": "3rd", "number": "singular", "tense": "pluperfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "ἐγεγράφεμεν", "parses": [{ "person": "1st", "number": "plural",   "tense": "pluperfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "ἐγεγράφετε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "pluperfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "ἐγεγράφεσαν", "parses": [{ "person": "3rd", "number": "plural",   "tense": "pluperfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+
+        { "form": "γέγραμμαι",   "parses": [{ "person": "1st", "number": "singular", "tense": "perfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "γέγραψαι",    "parses": [{ "person": "2nd", "number": "singular", "tense": "perfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "γέγραπται",   "parses": [{ "person": "3rd", "number": "singular", "tense": "perfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "γεγράμμεθα",  "parses": [{ "person": "1st", "number": "plural",   "tense": "perfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "γέγραφθε",    "parses": [{ "person": "2nd", "number": "plural",   "tense": "perfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "γεγραμμένοι εἰσί", "parses": [{ "person": "3rd", "number": "plural", "tense": "perfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+
+        { "form": "γεγράφθαι", "parses": [{ "person": null, "number": null, "tense": "perfect", "mood": "infinitive", "voice": "middle/passive" }], "principal_part": 5 },
+
+        { "form": "ἐγεγράμμην",  "parses": [{ "person": "1st", "number": "singular", "tense": "pluperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "ἐγέγραψο",    "parses": [{ "person": "2nd", "number": "singular", "tense": "pluperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "ἐγέγραπτο",   "parses": [{ "person": "3rd", "number": "singular", "tense": "pluperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "ἐγεγράμμεθα", "parses": [{ "person": "1st", "number": "plural",   "tense": "pluperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "ἐγέγραφθε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "pluperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "ἐγεγραμμένοι ἦσαν", "parses": [{ "person": "3rd", "number": "plural", "tense": "pluperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+
+        { "form": "ἐγράφην",    "parses": [{ "person": "1st", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ἐγράφης",    "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ἐγράφη",     "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ἐγράφημεν",  "parses": [{ "person": "1st", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ἐγράφητε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ἐγράφησαν",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+
+        { "form": "γραφῶ",    "parses": [{ "person": "1st", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γραφῇς",   "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γραφῇ",    "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γραφῶμεν", "parses": [{ "person": "1st", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γραφῆτε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γραφῶσι",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "passive" }], "principal_part": 6 },
+
+        { "form": "γραφείην",   "parses": [{ "person": "1st", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γραφείης",   "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γραφείη",    "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γραφεῖμεν",  "parses": [{ "person": "1st", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γραφεῖτε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γραφεῖεν",   "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "passive" }], "principal_part": 6 },
+
+        { "form": "γράφητι",   "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "imperative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γραφήτω",   "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "imperative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γράφητε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "imperative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γραφέντων", "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "imperative", "voice": "passive" }], "principal_part": 6 },
+
+        { "form": "γραφῆναι", "parses": [{ "person": null, "number": null, "tense": "aorist", "mood": "infinitive", "voice": "passive" }], "principal_part": 6 },
+
+        { "form": "γραφήσομαι",  "parses": [{ "person": "1st", "number": "singular", "tense": "future", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γραφήσῃ",     "parses": [{ "person": "2nd", "number": "singular", "tense": "future", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γραφήσεται",  "parses": [{ "person": "3rd", "number": "singular", "tense": "future", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γραφησόμεθα", "parses": [{ "person": "1st", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γραφήσεσθε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γραφήσονται", "parses": [{ "person": "3rd", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+
+        { "form": "γραφήσεσθαι", "parses": [{ "person": null, "number": null, "tense": "future", "mood": "infinitive", "voice": "passive" }], "principal_part": 6 }
+      ]
+    },
+    {
+      "dictionary_entry": "γίγνομαι",
+      "meaning": "to become, happen, be born",
+      "tags": ["irregular", "deponent-like", "thematic"],
+      "notes": "Present and imperfect exist in middle/passive forms only. Perfect active (γέγονα) uses the shorter γεν- stem. 6th principal part (ἐγενήθην) is rare in classical Attic.",
+      "principal_parts": ["γίγνομαι", "γενήσομαι", "ἐγενόμην", "γέγονα", "γεγένημαι", "ἐγενήθην"],
+      "forms": [
+
+        { "form": "γίγνομαι",   "parses": [{ "person": "1st", "number": "singular", "tense": "present", "mood": "indicative",  "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "γίγνῃ",      "parses": [{ "person": "2nd", "number": "singular", "tense": "present", "mood": "indicative",  "voice": "middle/passive" }, { "person": "2nd", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "middle/passive" }, { "person": "3rd", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "γίγνεται",   "parses": [{ "person": "3rd", "number": "singular", "tense": "present", "mood": "indicative",  "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "γιγνόμεθα",  "parses": [{ "person": "1st", "number": "plural",   "tense": "present", "mood": "indicative",  "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "γίγνεσθε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "present", "mood": "indicative",  "voice": "middle/passive" }, { "person": "2nd", "number": "plural", "tense": "present", "mood": "imperative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "γίγνονται",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "present", "mood": "indicative",  "voice": "middle/passive" }], "principal_part": 1 },
+
+        { "form": "γίγνωμαι",   "parses": [{ "person": "1st", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "γίγνηται",   "parses": [{ "person": "3rd", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "γιγνώμεθα",  "parses": [{ "person": "1st", "number": "plural",   "tense": "present", "mood": "subjunctive", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "γίγνησθε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "present", "mood": "subjunctive", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "γίγνωνται",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "present", "mood": "subjunctive", "voice": "middle/passive" }], "principal_part": 1 },
+
+        { "form": "γιγνοίμην",  "parses": [{ "person": "1st", "number": "singular", "tense": "present", "mood": "optative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "γίγνοιο",    "parses": [{ "person": "2nd", "number": "singular", "tense": "present", "mood": "optative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "γίγνοιτο",   "parses": [{ "person": "3rd", "number": "singular", "tense": "present", "mood": "optative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "γιγνοίμεθα", "parses": [{ "person": "1st", "number": "plural",   "tense": "present", "mood": "optative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "γίγνοισθε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "present", "mood": "optative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "γίγνοιντο",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "present", "mood": "optative", "voice": "middle/passive" }], "principal_part": 1 },
+
+        { "form": "γίγνου",     "parses": [{ "person": "2nd", "number": "singular", "tense": "present", "mood": "imperative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "γιγνέσθω",   "parses": [{ "person": "3rd", "number": "singular", "tense": "present", "mood": "imperative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "γιγνέσθων",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "present", "mood": "imperative", "voice": "middle/passive" }], "principal_part": 1 },
+
+        { "form": "γίγνεσθαι",  "parses": [{ "person": null, "number": null, "tense": "present", "mood": "infinitive", "voice": "middle/passive" }], "principal_part": 1 },
+
+        { "form": "ἐγιγνόμην",  "parses": [{ "person": "1st", "number": "singular", "tense": "imperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ἐγίγνου",    "parses": [{ "person": "2nd", "number": "singular", "tense": "imperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ἐγίγνετο",   "parses": [{ "person": "3rd", "number": "singular", "tense": "imperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ἐγιγνόμεθα", "parses": [{ "person": "1st", "number": "plural",   "tense": "imperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ἐγίγνεσθε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "imperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ἐγίγνοντο",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "imperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 1 },
+
+        { "form": "γενήσομαι",   "parses": [{ "person": "1st", "number": "singular", "tense": "future", "mood": "indicative", "voice": "middle" }], "principal_part": 2 },
+        { "form": "γενήσῃ",      "parses": [{ "person": "2nd", "number": "singular", "tense": "future", "mood": "indicative", "voice": "middle" }], "principal_part": 2 },
+        { "form": "γενήσεται",   "parses": [{ "person": "3rd", "number": "singular", "tense": "future", "mood": "indicative", "voice": "middle" }], "principal_part": 2 },
+        { "form": "γενησόμεθα",  "parses": [{ "person": "1st", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "middle" }], "principal_part": 2 },
+        { "form": "γενήσεσθε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "middle" }], "principal_part": 2 },
+        { "form": "γενήσονται",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "middle" }], "principal_part": 2 },
+
+        { "form": "γενησοίμην",  "parses": [{ "person": "1st", "number": "singular", "tense": "future", "mood": "optative", "voice": "middle" }], "principal_part": 2 },
+        { "form": "γενήσοιο",    "parses": [{ "person": "2nd", "number": "singular", "tense": "future", "mood": "optative", "voice": "middle" }], "principal_part": 2 },
+        { "form": "γενήσοιτο",   "parses": [{ "person": "3rd", "number": "singular", "tense": "future", "mood": "optative", "voice": "middle" }], "principal_part": 2 },
+        { "form": "γενησοίμεθα", "parses": [{ "person": "1st", "number": "plural",   "tense": "future", "mood": "optative", "voice": "middle" }], "principal_part": 2 },
+        { "form": "γενήσοισθε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "future", "mood": "optative", "voice": "middle" }], "principal_part": 2 },
+        { "form": "γενήσοιντο",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "future", "mood": "optative", "voice": "middle" }], "principal_part": 2 },
+
+        { "form": "γενήσεσθαι",  "parses": [{ "person": null, "number": null, "tense": "future", "mood": "infinitive", "voice": "middle" }], "principal_part": 2 },
+
+        { "form": "ἐγενόμην",   "parses": [{ "person": "1st", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "ἐγένου",     "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "ἐγένετο",    "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "ἐγενόμεθα",  "parses": [{ "person": "1st", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "ἐγένεσθε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "ἐγένοντο",   "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "middle" }], "principal_part": 3 },
+
+        { "form": "γένωμαι",    "parses": [{ "person": "1st", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "middle" }], "principal_part": 3 },
+        { "form": "γένῃ",       "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "middle" }], "principal_part": 3 },
+        { "form": "γένηται",    "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "middle" }], "principal_part": 3 },
+        { "form": "γενώμεθα",   "parses": [{ "person": "1st", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "middle" }], "principal_part": 3 },
+        { "form": "γένησθε",    "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "middle" }], "principal_part": 3 },
+        { "form": "γένωνται",   "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "middle" }], "principal_part": 3 },
+
+        { "form": "γενοίμην",   "parses": [{ "person": "1st", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "γένοιο",     "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "γένοιτο",    "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "γενοίμεθα",  "parses": [{ "person": "1st", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "γένοισθε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "γένοιντο",   "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "middle" }], "principal_part": 3 },
+
+        { "form": "γενοῦ",      "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "imperative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "γενέσθω",    "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "imperative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "γένεσθε",    "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "imperative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "γενέσθων",   "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "imperative", "voice": "middle" }], "principal_part": 3 },
+
+        { "form": "γενέσθαι",   "parses": [{ "person": null, "number": null, "tense": "aorist", "mood": "infinitive", "voice": "middle" }], "principal_part": 3 },
+
+        { "form": "γέγονα",     "parses": [{ "person": "1st", "number": "singular", "tense": "perfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "γέγονας",    "parses": [{ "person": "2nd", "number": "singular", "tense": "perfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "γέγονε",     "parses": [{ "person": "3rd", "number": "singular", "tense": "perfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "γεγόναμεν",  "parses": [{ "person": "1st", "number": "plural",   "tense": "perfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "γεγόνατε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "perfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "γεγόνασι",   "parses": [{ "person": "3rd", "number": "plural",   "tense": "perfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+
+        { "form": "γεγονέναι",  "parses": [{ "person": null, "number": null, "tense": "perfect", "mood": "infinitive", "voice": "active" }], "principal_part": 4 },
+
+        { "form": "ἐγεγόνη",    "parses": [{ "person": "1st", "number": "singular", "tense": "pluperfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "ἐγεγόνης",   "parses": [{ "person": "2nd", "number": "singular", "tense": "pluperfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "ἐγεγόνει",   "parses": [{ "person": "3rd", "number": "singular", "tense": "pluperfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "ἐγεγόνεμεν", "parses": [{ "person": "1st", "number": "plural",   "tense": "pluperfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "ἐγεγόνετε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "pluperfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "ἐγεγόνεσαν", "parses": [{ "person": "3rd", "number": "plural",   "tense": "pluperfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+
+        { "form": "γεγένημαι",   "parses": [{ "person": "1st", "number": "singular", "tense": "perfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "γεγένησαι",   "parses": [{ "person": "2nd", "number": "singular", "tense": "perfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "γεγένηται",   "parses": [{ "person": "3rd", "number": "singular", "tense": "perfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "γεγενήμεθα",  "parses": [{ "person": "1st", "number": "plural",   "tense": "perfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "γεγένησθε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "perfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "γεγένηνται",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "perfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+
+        { "form": "γεγενῆσθαι",  "parses": [{ "person": null, "number": null, "tense": "perfect", "mood": "infinitive", "voice": "middle/passive" }], "principal_part": 5 },
+
+        { "form": "ἐγεγενήμην",  "parses": [{ "person": "1st", "number": "singular", "tense": "pluperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "ἐγεγένησο",   "parses": [{ "person": "2nd", "number": "singular", "tense": "pluperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "ἐγεγένητο",   "parses": [{ "person": "3rd", "number": "singular", "tense": "pluperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "ἐγεγενήμεθα", "parses": [{ "person": "1st", "number": "plural",   "tense": "pluperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "ἐγεγένησθε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "pluperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "ἐγεγένηντο",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "pluperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+
+        { "form": "ἐγενήθην",    "parses": [{ "person": "1st", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ἐγενήθης",    "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ἐγενήθη",     "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ἐγενήθημεν",  "parses": [{ "person": "1st", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ἐγενήθητε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ἐγενήθησαν",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+
+        { "form": "γενηθῶ",    "parses": [{ "person": "1st", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γενηθῇς",   "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γενηθῇ",    "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γενηθῶμεν", "parses": [{ "person": "1st", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γενηθῆτε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γενηθῶσι",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "passive" }], "principal_part": 6 },
+
+        { "form": "γενηθείην",   "parses": [{ "person": "1st", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γενηθείης",   "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γενηθείη",    "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γενηθεῖμεν",  "parses": [{ "person": "1st", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γενηθεῖτε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γενηθεῖεν",   "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "passive" }], "principal_part": 6 },
+
+        { "form": "γενήθητι",   "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "imperative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γενηθήτω",   "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "imperative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γενήθητε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "imperative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γενηθέντων", "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "imperative", "voice": "passive" }], "principal_part": 6 },
+
+        { "form": "γενηθῆναι",   "parses": [{ "person": null, "number": null, "tense": "aorist", "mood": "infinitive", "voice": "passive" }], "principal_part": 6 },
+
+        { "form": "γενηθήσομαι",  "parses": [{ "person": "1st", "number": "singular", "tense": "future", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γενηθήσῃ",     "parses": [{ "person": "2nd", "number": "singular", "tense": "future", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γενηθήσεται",  "parses": [{ "person": "3rd", "number": "singular", "tense": "future", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γενηθησόμεθα", "parses": [{ "person": "1st", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γενηθήσεσθε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "γενηθήσονται", "parses": [{ "person": "3rd", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+
+        { "form": "γενηθήσεσθαι", "parses": [{ "person": null, "number": null, "tense": "future", "mood": "infinitive", "voice": "passive" }], "principal_part": 6 }
+      ]
+    },
+    {
+      "dictionary_entry": "ποιέω",
+      "meaning": "to make, do",
+      "tags": ["regular", "contract", "thematic"],
+      "notes": "Epsilon-contract verb: stem ποιε- contracts with endings in the present/imperfect system (ε+ε→ει, ε+ο→ου, ε+long vowel/diphthong→long vowel/diphthong absorbs ε). Other tenses lengthen ε to η and conjugate like a regular verb.",
+      "principal_parts": ["ποιέω", "ποιήσω", "ἐποίησα", "πεποίηκα", "πεποίημαι", "ἐποιήθην"],
+      "forms": [
+
+        { "form": "ποιῶ",      "parses": [{ "person": "1st", "number": "singular", "tense": "present", "mood": "indicative",  "voice": "active" }, { "person": "1st", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "active" }], "principal_part": 1 },
+        { "form": "ποιεῖς",    "parses": [{ "person": "2nd", "number": "singular", "tense": "present", "mood": "indicative",  "voice": "active" }], "principal_part": 1 },
+        { "form": "ποιεῖ",     "parses": [{ "person": "3rd", "number": "singular", "tense": "present", "mood": "indicative",  "voice": "active" }], "principal_part": 1 },
+        { "form": "ποιοῦμεν",  "parses": [{ "person": "1st", "number": "plural",   "tense": "present", "mood": "indicative",  "voice": "active" }], "principal_part": 1 },
+        { "form": "ποιεῖτε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "present", "mood": "indicative",  "voice": "active" }, { "person": "2nd", "number": "plural", "tense": "present", "mood": "imperative", "voice": "active" }], "principal_part": 1 },
+        { "form": "ποιοῦσι",   "parses": [{ "person": "3rd", "number": "plural",   "tense": "present", "mood": "indicative",  "voice": "active" }], "principal_part": 1 },
+
+        { "form": "ποιοῦμαι",   "parses": [{ "person": "1st", "number": "singular", "tense": "present", "mood": "indicative",  "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ποιῇ",       "parses": [{ "person": "2nd", "number": "singular", "tense": "present", "mood": "indicative",  "voice": "middle/passive" }, { "person": "2nd", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "middle/passive" }, { "person": "3rd", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ποιεῖται",   "parses": [{ "person": "3rd", "number": "singular", "tense": "present", "mood": "indicative",  "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ποιούμεθα",  "parses": [{ "person": "1st", "number": "plural",   "tense": "present", "mood": "indicative",  "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ποιεῖσθε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "present", "mood": "indicative",  "voice": "middle/passive" }, { "person": "2nd", "number": "plural", "tense": "present", "mood": "imperative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ποιοῦνται",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "present", "mood": "indicative",  "voice": "middle/passive" }], "principal_part": 1 },
+
+        { "form": "ποιῇς",     "parses": [{ "person": "2nd", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "active" }], "principal_part": 1 },
+        { "form": "ποιῇ",      "parses": [{ "person": "3rd", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "active" }], "principal_part": 1 },
+        { "form": "ποιῶμεν",   "parses": [{ "person": "1st", "number": "plural",   "tense": "present", "mood": "subjunctive", "voice": "active" }], "principal_part": 1 },
+        { "form": "ποιῆτε",    "parses": [{ "person": "2nd", "number": "plural",   "tense": "present", "mood": "subjunctive", "voice": "active" }], "principal_part": 1 },
+        { "form": "ποιῶσι",    "parses": [{ "person": "3rd", "number": "plural",   "tense": "present", "mood": "subjunctive", "voice": "active" }], "principal_part": 1 },
+
+        { "form": "ποιῶμαι",    "parses": [{ "person": "1st", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ποιῆται",    "parses": [{ "person": "3rd", "number": "singular", "tense": "present", "mood": "subjunctive", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ποιώμεθα",   "parses": [{ "person": "1st", "number": "plural",   "tense": "present", "mood": "subjunctive", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ποιῆσθε",    "parses": [{ "person": "2nd", "number": "plural",   "tense": "present", "mood": "subjunctive", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ποιῶνται",   "parses": [{ "person": "3rd", "number": "plural",   "tense": "present", "mood": "subjunctive", "voice": "middle/passive" }], "principal_part": 1 },
+
+        { "form": "ποιοίην",   "parses": [{ "person": "1st", "number": "singular", "tense": "present", "mood": "optative", "voice": "active" }], "principal_part": 1 },
+        { "form": "ποιοίης",   "parses": [{ "person": "2nd", "number": "singular", "tense": "present", "mood": "optative", "voice": "active" }], "principal_part": 1 },
+        { "form": "ποιοίη",    "parses": [{ "person": "3rd", "number": "singular", "tense": "present", "mood": "optative", "voice": "active" }], "principal_part": 1 },
+        { "form": "ποιοῖμεν",  "parses": [{ "person": "1st", "number": "plural",   "tense": "present", "mood": "optative", "voice": "active" }], "principal_part": 1 },
+        { "form": "ποιοῖτε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "present", "mood": "optative", "voice": "active" }], "principal_part": 1 },
+        { "form": "ποιοῖεν",   "parses": [{ "person": "3rd", "number": "plural",   "tense": "present", "mood": "optative", "voice": "active" }], "principal_part": 1 },
+
+        { "form": "ποιοίμην",   "parses": [{ "person": "1st", "number": "singular", "tense": "present", "mood": "optative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ποιοῖο",     "parses": [{ "person": "2nd", "number": "singular", "tense": "present", "mood": "optative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ποιοῖτο",    "parses": [{ "person": "3rd", "number": "singular", "tense": "present", "mood": "optative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ποιοίμεθα",  "parses": [{ "person": "1st", "number": "plural",   "tense": "present", "mood": "optative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ποιοῖσθε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "present", "mood": "optative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ποιοῖντο",   "parses": [{ "person": "3rd", "number": "plural",   "tense": "present", "mood": "optative", "voice": "middle/passive" }], "principal_part": 1 },
+
+        { "form": "ποίει",      "parses": [{ "person": "2nd", "number": "singular", "tense": "present", "mood": "imperative", "voice": "active" }], "principal_part": 1 },
+        { "form": "ποιείτω",    "parses": [{ "person": "3rd", "number": "singular", "tense": "present", "mood": "imperative", "voice": "active" }], "principal_part": 1 },
+        { "form": "ποιούντων",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "present", "mood": "imperative", "voice": "active" }], "principal_part": 1 },
+
+        { "form": "ποιοῦ",       "parses": [{ "person": "2nd", "number": "singular", "tense": "present", "mood": "imperative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ποιείσθω",    "parses": [{ "person": "3rd", "number": "singular", "tense": "present", "mood": "imperative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ποιείσθων",   "parses": [{ "person": "3rd", "number": "plural",   "tense": "present", "mood": "imperative", "voice": "middle/passive" }], "principal_part": 1 },
+
+        { "form": "ποιεῖν",     "parses": [{ "person": null, "number": null, "tense": "present", "mood": "infinitive", "voice": "active" }],        "principal_part": 1 },
+        { "form": "ποιεῖσθαι",  "parses": [{ "person": null, "number": null, "tense": "present", "mood": "infinitive", "voice": "middle/passive" }], "principal_part": 1 },
+
+        { "form": "ἐποίουν",    "parses": [{ "person": "1st", "number": "singular", "tense": "imperfect", "mood": "indicative", "voice": "active" }, { "person": "3rd", "number": "plural", "tense": "imperfect", "mood": "indicative", "voice": "active" }], "principal_part": 1 },
+        { "form": "ἐποίεις",    "parses": [{ "person": "2nd", "number": "singular", "tense": "imperfect", "mood": "indicative", "voice": "active" }], "principal_part": 1 },
+        { "form": "ἐποίει",     "parses": [{ "person": "3rd", "number": "singular", "tense": "imperfect", "mood": "indicative", "voice": "active" }], "principal_part": 1 },
+        { "form": "ἐποιοῦμεν",  "parses": [{ "person": "1st", "number": "plural",   "tense": "imperfect", "mood": "indicative", "voice": "active" }], "principal_part": 1 },
+        { "form": "ἐποιεῖτε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "imperfect", "mood": "indicative", "voice": "active" }], "principal_part": 1 },
+
+        { "form": "ἐποιούμην",  "parses": [{ "person": "1st", "number": "singular", "tense": "imperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ἐποιοῦ",     "parses": [{ "person": "2nd", "number": "singular", "tense": "imperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ἐποιεῖτο",   "parses": [{ "person": "3rd", "number": "singular", "tense": "imperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ἐποιούμεθα", "parses": [{ "person": "1st", "number": "plural",   "tense": "imperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ἐποιεῖσθε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "imperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 1 },
+        { "form": "ἐποιοῦντο",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "imperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 1 },
+
+        { "form": "ποιήσω",    "parses": [{ "person": "1st", "number": "singular", "tense": "future", "mood": "indicative",  "voice": "active" }, { "person": "1st", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "active" }], "principal_part": 2 },
+        { "form": "ποιήσεις",  "parses": [{ "person": "2nd", "number": "singular", "tense": "future", "mood": "indicative",  "voice": "active" }], "principal_part": 2 },
+        { "form": "ποιήσει",   "parses": [{ "person": "3rd", "number": "singular", "tense": "future", "mood": "indicative",  "voice": "active" }], "principal_part": 2 },
+        { "form": "ποιήσομεν", "parses": [{ "person": "1st", "number": "plural",   "tense": "future", "mood": "indicative",  "voice": "active" }], "principal_part": 2 },
+        { "form": "ποιήσετε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "future", "mood": "indicative",  "voice": "active" }], "principal_part": 2 },
+        { "form": "ποιήσουσι", "parses": [{ "person": "3rd", "number": "plural",   "tense": "future", "mood": "indicative",  "voice": "active" }], "principal_part": 2 },
+
+        { "form": "ποιήσομαι",   "parses": [{ "person": "1st", "number": "singular", "tense": "future", "mood": "indicative", "voice": "middle" }], "principal_part": 2 },
+        { "form": "ποιήσῃ",      "parses": [{ "person": "2nd", "number": "singular", "tense": "future", "mood": "indicative", "voice": "middle" }], "principal_part": 2 },
+        { "form": "ποιήσεται",   "parses": [{ "person": "3rd", "number": "singular", "tense": "future", "mood": "indicative", "voice": "middle" }], "principal_part": 2 },
+        { "form": "ποιησόμεθα",  "parses": [{ "person": "1st", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "middle" }], "principal_part": 2 },
+        { "form": "ποιήσεσθε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "middle" }], "principal_part": 2 },
+        { "form": "ποιήσονται",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "middle" }], "principal_part": 2 },
+
+        { "form": "ποιήσειν",   "parses": [{ "person": null, "number": null, "tense": "future", "mood": "infinitive", "voice": "active" }],  "principal_part": 2 },
+        { "form": "ποιήσεσθαι", "parses": [{ "person": null, "number": null, "tense": "future", "mood": "infinitive", "voice": "middle" }],  "principal_part": 2 },
+
+        { "form": "ἐποίησα",    "parses": [{ "person": "1st", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "active" }], "principal_part": 3 },
+        { "form": "ἐποίησας",   "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "active" }], "principal_part": 3 },
+        { "form": "ἐποίησε",    "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "active" }], "principal_part": 3 },
+        { "form": "ἐποιήσαμεν", "parses": [{ "person": "1st", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "active" }], "principal_part": 3 },
+        { "form": "ἐποιήσατε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "active" }], "principal_part": 3 },
+        { "form": "ἐποίησαν",   "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "active" }], "principal_part": 3 },
+
+        { "form": "ἐποιησάμην",  "parses": [{ "person": "1st", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "ἐποιήσω",     "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "ἐποιήσατο",   "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "ἐποιησάμεθα", "parses": [{ "person": "1st", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "ἐποιήσασθε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "ἐποιήσαντο",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "middle" }], "principal_part": 3 },
+
+        { "form": "ποιήσῃς",   "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "active" }], "principal_part": 3 },
+        { "form": "ποιήσῃ",    "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "active" }, { "person": "2nd", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "middle" }], "principal_part": 3 },
+        { "form": "ποιήσωμεν", "parses": [{ "person": "1st", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "active" }], "principal_part": 3 },
+        { "form": "ποιήσητε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "active" }], "principal_part": 3 },
+        { "form": "ποιήσωσι",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "active" }], "principal_part": 3 },
+
+        { "form": "ποιήσωμαι",   "parses": [{ "person": "1st", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "middle" }], "principal_part": 3 },
+        { "form": "ποιήσηται",   "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "middle" }], "principal_part": 3 },
+        { "form": "ποιησώμεθα",  "parses": [{ "person": "1st", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "middle" }], "principal_part": 3 },
+        { "form": "ποιήσησθε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "middle" }], "principal_part": 3 },
+        { "form": "ποιήσωνται",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "middle" }], "principal_part": 3 },
+
+        { "form": "ποιήσαιμι",  "parses": [{ "person": "1st", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "active" }], "principal_part": 3 },
+        { "form": "ποιήσαις",   "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "active" }], "principal_part": 3 },
+        { "form": "ποιήσαι",    "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "active" }, { "person": "2nd", "number": "singular", "tense": "aorist", "mood": "imperative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "ποιήσαιμεν", "parses": [{ "person": "1st", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "active" }], "principal_part": 3 },
+        { "form": "ποιήσαιτε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "active" }], "principal_part": 3 },
+        { "form": "ποιήσαιεν",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "active" }], "principal_part": 3 },
+
+        { "form": "ποιησαίμην",  "parses": [{ "person": "1st", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "ποιήσαιο",    "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "ποιήσαιτο",   "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "ποιησαίμεθα", "parses": [{ "person": "1st", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "ποιήσαισθε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "ποιήσαιντο",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "middle" }], "principal_part": 3 },
+
+        { "form": "ποίησον",    "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "imperative", "voice": "active" }], "principal_part": 3 },
+        { "form": "ποιησάτω",   "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "imperative", "voice": "active" }], "principal_part": 3 },
+        { "form": "ποιήσατε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "imperative", "voice": "active" }], "principal_part": 3 },
+        { "form": "ποιησάντων", "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "imperative", "voice": "active" }], "principal_part": 3 },
+
+        { "form": "ποιησάσθω",  "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "imperative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "ποιήσασθε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "imperative", "voice": "middle" }], "principal_part": 3 },
+        { "form": "ποιησάσθων", "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "imperative", "voice": "middle" }], "principal_part": 3 },
+
+        { "form": "ποιῆσαι",    "parses": [{ "person": null, "number": null, "tense": "aorist", "mood": "infinitive", "voice": "active" }],  "principal_part": 3 },
+        { "form": "ποιήσασθαι", "parses": [{ "person": null, "number": null, "tense": "aorist", "mood": "infinitive", "voice": "middle" }],  "principal_part": 3 },
+
+        { "form": "πεποίηκα",    "parses": [{ "person": "1st", "number": "singular", "tense": "perfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "πεποίηκας",   "parses": [{ "person": "2nd", "number": "singular", "tense": "perfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "πεποίηκε",    "parses": [{ "person": "3rd", "number": "singular", "tense": "perfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "πεποιήκαμεν", "parses": [{ "person": "1st", "number": "plural",   "tense": "perfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "πεποιήκατε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "perfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "πεποιήκασι",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "perfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+
+        { "form": "πεποιηκέναι", "parses": [{ "person": null, "number": null, "tense": "perfect", "mood": "infinitive", "voice": "active" }], "principal_part": 4 },
+
+        { "form": "ἐπεποιήκη",    "parses": [{ "person": "1st", "number": "singular", "tense": "pluperfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "ἐπεποιήκης",   "parses": [{ "person": "2nd", "number": "singular", "tense": "pluperfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "ἐπεποιήκει",   "parses": [{ "person": "3rd", "number": "singular", "tense": "pluperfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "ἐπεποιήκεμεν", "parses": [{ "person": "1st", "number": "plural",   "tense": "pluperfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "ἐπεποιήκετε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "pluperfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+        { "form": "ἐπεποιήκεσαν", "parses": [{ "person": "3rd", "number": "plural",   "tense": "pluperfect", "mood": "indicative", "voice": "active" }], "principal_part": 4 },
+
+        { "form": "πεποίημαι",   "parses": [{ "person": "1st", "number": "singular", "tense": "perfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "πεποίησαι",   "parses": [{ "person": "2nd", "number": "singular", "tense": "perfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "πεποίηται",   "parses": [{ "person": "3rd", "number": "singular", "tense": "perfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "πεποιήμεθα",  "parses": [{ "person": "1st", "number": "plural",   "tense": "perfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "πεποίησθε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "perfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "πεποίηνται",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "perfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+
+        { "form": "πεποιῆσθαι",  "parses": [{ "person": null, "number": null, "tense": "perfect", "mood": "infinitive", "voice": "middle/passive" }], "principal_part": 5 },
+
+        { "form": "ἐπεποιήμην",  "parses": [{ "person": "1st", "number": "singular", "tense": "pluperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "ἐπεποίησο",   "parses": [{ "person": "2nd", "number": "singular", "tense": "pluperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "ἐπεποίητο",   "parses": [{ "person": "3rd", "number": "singular", "tense": "pluperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "ἐπεποιήμεθα", "parses": [{ "person": "1st", "number": "plural",   "tense": "pluperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "ἐπεποίησθε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "pluperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+        { "form": "ἐπεποίηντο",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "pluperfect", "mood": "indicative", "voice": "middle/passive" }], "principal_part": 5 },
+
+        { "form": "ἐποιήθην",    "parses": [{ "person": "1st", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ἐποιήθης",    "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ἐποιήθη",     "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ἐποιήθημεν",  "parses": [{ "person": "1st", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ἐποιήθητε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ἐποιήθησαν",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+
+        { "form": "ποιηθῶ",    "parses": [{ "person": "1st", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ποιηθῇς",   "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ποιηθῇ",    "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "subjunctive", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ποιηθῶμεν", "parses": [{ "person": "1st", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ποιηθῆτε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ποιηθῶσι",  "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "subjunctive", "voice": "passive" }], "principal_part": 6 },
+
+        { "form": "ποιηθείην",   "parses": [{ "person": "1st", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ποιηθείης",   "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ποιηθείη",    "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "optative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ποιηθεῖμεν",  "parses": [{ "person": "1st", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ποιηθεῖτε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ποιηθεῖεν",   "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "optative", "voice": "passive" }], "principal_part": 6 },
+
+        { "form": "ποιήθητι",   "parses": [{ "person": "2nd", "number": "singular", "tense": "aorist", "mood": "imperative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ποιηθήτω",   "parses": [{ "person": "3rd", "number": "singular", "tense": "aorist", "mood": "imperative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ποιήθητε",   "parses": [{ "person": "2nd", "number": "plural",   "tense": "aorist", "mood": "imperative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ποιηθέντων", "parses": [{ "person": "3rd", "number": "plural",   "tense": "aorist", "mood": "imperative", "voice": "passive" }], "principal_part": 6 },
+
+        { "form": "ποιηθῆναι",  "parses": [{ "person": null, "number": null, "tense": "aorist", "mood": "infinitive", "voice": "passive" }], "principal_part": 6 },
+
+        { "form": "ποιηθήσομαι",  "parses": [{ "person": "1st", "number": "singular", "tense": "future", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ποιηθήσῃ",     "parses": [{ "person": "2nd", "number": "singular", "tense": "future", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ποιηθήσεται",  "parses": [{ "person": "3rd", "number": "singular", "tense": "future", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ποιηθησόμεθα", "parses": [{ "person": "1st", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ποιηθήσεσθε",  "parses": [{ "person": "2nd", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+        { "form": "ποιηθήσονται", "parses": [{ "person": "3rd", "number": "plural",   "tense": "future", "mood": "indicative", "voice": "passive" }], "principal_part": 6 },
+
+        { "form": "ποιηθήσεσθαι", "parses": [{ "person": null, "number": null, "tense": "future", "mood": "infinitive", "voice": "passive" }], "principal_part": 6 }
+      ]
     }
   ]
 }

@@ -1,1 +1,104 @@
+html {
+  font-size: 100%; /* Maps to the browser default, usually 16px */
+}
+
+body {
+  font-size: 1rem; /* Inherits the 16px base size */
+}
+
 .hidden { display: none; }
+
+/* Forces padding and borders to be included in an element's total width */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 35px;
+}
+
+h2 {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#modeSelect #modeButtons {
+  display: flex;
+  justify-content: center; /* Horizontally centers the buttons */
+  align-items: center;     /* Vertically centers the buttons */
+  gap: 16px;               /* Adds clean spacing between multiple buttons */
+}
+
+#modeSelect #modeButtons button {
+  font-size: 1.2rem;
+  padding: 15px 25px;
+}
+
+#mode1 #challenge {
+  text-align: center;
+}
+
+#verbParseDropdowns {
+  display: flex;
+  justify-content: center; /* Horizontally centers the buttons */
+  align-items: center;     /* Vertically centers the buttons */
+  gap: 10px;               /* Adds clean spacing between multiple buttons */
+  padding: 10px;
+}
+
+/* How to change the text size in the drop-downs??*/
+#verbParseDropdowns select {
+  font-size: 1.2rem;
+}
+
+.answerButtons {
+  display: flex;
+  justify-content: center; /* Horizontally centers the buttons */
+  align-items: center;     /* Vertically centers the buttons */
+  gap: 10px;               /* Adds clean spacing between multiple buttons */
+  padding: 10px;
+}
+
+.answerButtons button {
+  font-size: 1.2rem;
+}
+
+#mode2 #challenge2 {
+  text-align: center;
+}
+
+#mode2 #formSpecs {
+  text-align: center;
+}
+
+#userAnswerWrapper {
+  display: flex;
+  justify-content: center; /* Centers horizontally */
+  align-items: center;     /* Centers vertically */
+  padding-bottom: 10px;
+}
+
+#mode3 #challenge3 {
+  text-align: center;
+}
+
+#ppInputs {
+  display: flex;
+  justify-content: center; /* Horizontally centers the buttons */
+  align-items: center;     /* Vertically centers the buttons */
+  gap: 10px;               /* Adds clean spacing between multiple buttons */
+  padding: 10px;
+}
+
+#feedback {
+  text-align: center;
+}
+
+#backToMenu {
+  display: block;
+  margin: 0 auto;
+  font-size: 1.2rem;
+  padding: 10px;
+}

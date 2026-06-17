@@ -12,9 +12,12 @@
 
   <!-- Mode selection (shown on load) -->
   <div id="modeSelect">
-    <button id="GrkToEng">Greek to English</button>
-    <button id="EngToGrk">English to Greek</button>
-    <button id="PrincipalParts">Principal Parts Practice</button>
+    <h2>Select your study mode.</h2>
+    <div id="modeButtons">
+      <button id="GrkToEng">Greek to English</button>
+      <button id="EngToGrk">English to Greek</button>
+      <button id="PrincipalParts">Principal Parts Practice</button>
+    </div>
   </div>
 
   <!-- Quiz screen (hidden on load) -->
@@ -23,60 +26,70 @@
   <!-- Mode 1: Greek form shown, user picks parse -->
   <div id="mode1" class="hidden">
     <h3 id="challenge"></h3>
-    <!-- five dropdowns + submit -->
-    <label for="person">
-      <select name="person" id="person">
-        <option value="1st">1st</option>
-        <option value="2nd">2nd</option>
-        <option value="3rd">3rd</option>
-      </select>
-    </label>
-    <label for="number">
-      <select name="number" id="number">
-        <option value="singular">singular</option>
-        <option value="plural">plural</option>
-      </select>
-    </label>
-    <label for="tense">
-      <select name="tense" id="tense">
-        <option value="present">present</option>
-        <option value="imperfect">imperfect</option>
-        <option value="future">future</option>
-        <option value="aorist">aorist</option>  
-        <option value="perfect">perfect</option>
-        <option value="pluperfect">pluperfect</option>
-        <option value="futurePerfect">future perfect</option>
-      </select>
-    </label>
-    <label for="mood">
-      <select name="mood" id="mood">
-        <option value="indicative">indicative</option>
-        <option value="subjunctive">subjunctive</option>
-        <option value="optative">optative</option>
-        <option value="imperative">imperative</option>
-      </select>
-    </label>
-    <label for="voice">
-      <select name="voice" id="voice">
-        <option value="active">active</option>
-        <option value="middle">middle</option>
-        <option value="passive">passive</option>
-      </select>
-    </label>
+    <!-- five dropdowns -->
+    <div id="verbParseDropdowns">
+      <label for="person">
+        <select name="person" id="person">
+          <option value="1st">1st</option>
+          <option value="2nd">2nd</option>
+          <option value="3rd">3rd</option>
+        </select>
+      </label>
+      <label for="number">
+        <select name="number" id="number">
+          <option value="singular">singular</option>
+          <option value="plural">plural</option>
+        </select>
+      </label>
+      <label for="tense">
+        <select name="tense" id="tense">
+          <option value="present">present</option>
+          <option value="imperfect">imperfect</option>
+          <option value="future">future</option>
+          <option value="aorist">aorist</option>  
+          <option value="perfect">perfect</option>
+          <option value="pluperfect">pluperfect</option>
+          <option value="futurePerfect">future perfect</option>
+        </select>
+      </label>
+      <label for="mood">
+        <select name="mood" id="mood">
+          <option value="indicative">indicative</option>
+          <option value="subjunctive">subjunctive</option>
+          <option value="optative">optative</option>
+          <option value="imperative">imperative</option>
+        </select>
+      </label>
+      <label for="voice">
+        <select name="voice" id="voice">
+          <option value="active">active</option>
+          <option value="middle">middle</option>
+          <option value="passive">passive</option>
+        </select>
+      </label>
+    </div>
 
-    <button id="submitParse">Check Answer</button>
-    <button id="showAnswerParse">Show Answer</button>
-    <button class="next">Next Question</button>
+    <!-- Buttons to submit answer, show correct answer, and go to next question -->
+    <div class="answerButtons">
+      <button id="submitParse">Check Answer</button>
+      <button id="showAnswerParse">Show Answer</button>
+      <button class="next">Next Question</button>
+    </div>
   </div>
 
   <!-- Mode 2: Parse shown, user types Greek form -->
   <div id="mode2" class="hidden">
     <h3 id="challenge2"></h3>
     <h4 id="formSpecs"></h4>
-    <input type="text" id="userAnswer" placeholder="Type answer here">
-    <button id="submitVerbForm">Check Answer</button>
-    <button id="showAnswerForm">Show Answer</button>
-    <button class="next">Next Question</button>
+    <div id="userAnswerWrapper">
+      <input type="text" id="userAnswer" placeholder="Type answer here">
+    </div>
+
+    <div class="answerButtons">
+      <button id="submitVerbForm">Check Answer</button>
+      <button id="showAnswerForm">Show Answer</button>
+      <button class="next">Next Question</button>
+    </div>
   </div>
 
   <!-- Mode 3: Dictionary entry shown, user types all 6 principal parts -->
@@ -90,9 +103,11 @@
       <input type="text" id="pp5" placeholder="5th">
       <input type="text" id="pp6" placeholder="6th">
     </div>
-    <button id="submitPrincipalParts">Check Answer</button>
-    <button id="showAnswerPP">Show Answer</button>
-    <button class="next">Next Question</button>
+    <div class="answerButtons">
+      <button id="submitPrincipalParts">Check Answer</button>
+      <button id="showAnswerPP">Show Answer</button>
+      <button class="next">Next Question</button>
+    </div>
   </div>
 
   <p id="feedback"></p>

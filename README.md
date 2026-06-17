@@ -22,8 +22,8 @@ Once the main features of the app are working, I plan to expand it so that users
 
 ### To Do
 - Fix ambiguous forms bug - DONE
-- Add 6 more verbs: εἰμί, πιστεύω, γράφω, γίγνομαι, ποιέω, ἱημί
-- If a verb has more than one correct parse, should I choose randomly from the array which one gets displayed on the page?
+- Add more verbs: εἰμί, πιστεύω, γράφω, γίγνομαι, ποιέω - DONE
+- For Eng to Greek, if a verb has more than one correct parse, choose randomly - DONE
 - Test to see if ἔστε vs ἐστέ works correctly
 - Add "show answer" button - DONE
 - Add "next" button - DONE
@@ -32,7 +32,13 @@ Once the main features of the app are working, I plan to expand it so that users
 - Improve the appearance of the page and add some text instructions
 - Find vocabulary frequency lists to build word banks
 - Generate expanded word banks with AI
+- Get textbooks and build chapter-by-chapter vocab lists
 - Learn Node/Express by building a simple REST API for word data
 - Learn PostgreSQL by migrating the JSON into a real database
 - Add user auth
 - When vanilla JS starts feeling unwieldy, migrate to React
+
+### Notes
+- In the JSON, the perfect/pluperfect MP 3rd plural of γράφω is a periphrastic construction (two words), which may need special handling in the UI eventually.
+
+- Might eventually want to suppress rare forms when selecting verb forms randomly. Could use tags like `"rare": true` on individual form objects. The 6th principal part forms of γίγνομαι are rare.
